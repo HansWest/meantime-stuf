@@ -16,6 +16,13 @@ The site will be available at:
 
 - https://hanswest.github.io/meantime-stuf/
 
+Direct links once Pages is live:
+
+- https://hanswest.github.io/meantime-stuf/work-flow.html
+- https://hanswest.github.io/meantime-stuf/protocollen/ehbo.html
+- https://hanswest.github.io/meantime-stuf/protocollen/incidenten-protocol.html
+- https://hanswest.github.io/meantime-stuf/protocollen/toegang-polsbandjes.html
+
 ## Structure
 
 - Root index: `index.html`
