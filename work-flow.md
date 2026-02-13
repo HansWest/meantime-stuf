@@ -2,7 +2,7 @@
 
 Praktisch werkdocument voor vrijwilligers en organisatie. Kort, duidelijk en privacy-first.
 
-Mobiel lezen: [index.html](https://htmlpreview.github.io/?https://github.com/HansWest/schrijven/blob/main/meantime-stuf/protocollen/index.html)
+Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://hanswest.github.io/meantime-stuf/work-flow.html)
 
 ## Protocollen (losse bestanden)
 
