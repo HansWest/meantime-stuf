@@ -106,7 +106,7 @@
 
         textarea {
             resize: vertical;
-            min-height: 120px;
+            min-height: 80px;
         }
 
         .btn-submit {
@@ -146,7 +146,7 @@
         /* Custom select styling for mobile */
         select {
             appearance: none;
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='white'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='激19l-7 7-7-7' /%3E%3C/svg%3E");
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='white'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7' /%3E%3C/svg%3E");
             background-repeat: no-repeat;
             background-position: right 1rem center;
             background-size: 1.5rem;
@@ -164,7 +164,7 @@
                 <label for="event">Bij welk feestje is dit?</label>
                 <select id="event" required>
                     <option value="" disabled selected>Kies een event...</option>
-                    <option value="Meantime">the Meantime</option>
+                    <option value="the Meantime">the Meantime</option>
                     <option value="Cornertime">Cornertime</option>
                     <option value="Puppies">Puppies</option>
                     <option value="Sneakers">Sneakers</option>
@@ -186,19 +186,43 @@
             </div>
 
             <div class="form-group">
-                <label for="location">Locatie (bijv. Zaal 1, Bar, Rookruimte)</label>
+                <label for="incident_time">Datum en Tijd</label>
+                <input type="text" id="incident_time" placeholder="Wanneer gebeurde het? (leeg laten voor nu)">
+            </div>
+
+            <div class="form-group">
+                <label for="location">Locatie (bijv. Deur, Bar, Boven, Beneden, Dansvloer, WC)</label>
                 <input type="text" id="location" placeholder="Waar gebeurde het?" required>
             </div>
 
             <div class="form-group">
-                <label for="reporter">Jouw Naam</label>
-                <input type="text" id="reporter" placeholder="Naam van de melder" required>
+                <label for="reporter">Melder (Naam + Rol)</label>
+                <input type="text" id="reporter" placeholder="Wie meldt dit en wat is je rol?" required>
             </div>
 
             <div class="form-group">
-                <label for="description">Beschrijving</label>
-                <textarea id="description" placeholder="Wat is er precies gebeurd? Wie waren erbij betrokken?"
-                    required></textarea>
+                <label for="involved">Betrokkenen (Omschrijving)</label>
+                <input type="text" id="involved" placeholder="Wie waren er betrokken? (geen volledige namen)">
+            </div>
+
+            <div class="form-group">
+                <label for="witnesses">Getuigen (Omschrijving)</label>
+                <input type="text" id="witnesses" placeholder="Wie hebben het nog meer gezien?">
+            </div>
+
+            <div class="form-group">
+                <label for="description">Feiten (Korte beschrijving)</label>
+                <textarea id="description" placeholder="Wat is er precies gebeurd? Houd het feitelijk." required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="actions">Acties direct genomen</label>
+                <textarea id="actions" placeholder="Wat heb je direct gedaan?"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="needs">Behoefte van betrokkenen</label>
+                <textarea id="needs" placeholder="Wat hebben de betrokkenen nu nodig?"></textarea>
             </div>
 
             <button type="submit" class="btn-submit">
@@ -216,9 +240,9 @@
         const emailMap = {
             'the Meantime': 'hnswest@gmail.com',
             'Cornertime': 'rain@emailadres.nl',
-            'Under18': 'hnswest@gmail.com',
+            'Under18': 'mail@janwillemvanderwal.nl',
             'Tattoo': 'hnswest@gmail.com',
-            'Anders': 'hnswest@gmail.com'
+            'Anders': 'mail@janwillemvanderwal.nl'
         };
 
         document.getElementById('incidentForm').addEventListener('submit', function (e) {
@@ -226,21 +250,32 @@
 
             const event = document.getElementById('event').value;
             const type = document.getElementById('type').value;
+            const time_val = document.getElementById('incident_time').value || new Date().toLocaleString('nl-NL');
             const location = document.getElementById('location').value;
             const reporter = document.getElementById('reporter').value;
+            const involved = document.getElementById('involved').value;
+            const witnesses = document.getElementById('witnesses').value;
             const description = document.getElementById('description').value;
-            const timestamp = new Date().toLocaleString('nl-NL');
+            const actions = document.getElementById('actions').value;
+            const needs = document.getElementById('needs').value;
 
             const recipient = emailMap[event] || 'hnswest@gmail.com';
             const subject = `[INCIDENT] ${event} - ${type}`;
 
-            // Build Markdown body
+            // Build Markdown body (matching incidentformulier.md)
             let body = `# Incident Melding: ${event}\n\n`;
-            body += `**Datum/Tijd:** ${timestamp}\n`;
-            body += `**Type:** ${type}\n`;
-            body += `**Locatie:** ${location}\n`;
-            body += `**Melder:** ${reporter}\n\n`;
-            body += `## Beschrijving\n${description}\n\n`;
+            body += `## Basis\n`;
+            body += `- **Datum/Tijd:** ${time_val}\n`;
+            body += `- **Type:** ${type}\n`;
+            body += `- **Locatie:** ${location}\n`;
+            body += `- **Melder (rol):** ${reporter}\n`;
+            body += `- **Betrokkenen (omschrijving):** ${involved}\n`;
+            body += `- **Getuigen (omschrijving):** ${witnesses}\n\n`;
+            
+            body += `## Feiten (korte beschrijving)\n${description}\n\n`;
+            body += `## Acties direct genomen\n${actions}\n\n`;
+            body += `## Behoefte van betrokkenen\n${needs}\n\n`;
+            
             body += `---\n*Gegenereerd via Meantime Incident Formulier*`;
 
             const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
