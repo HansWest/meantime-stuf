@@ -6,6 +6,8 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 
 ## Protocollen (losse bestanden)
 
+[👉 Direct digitaal incident melden](melding-formulier.html)
+
 - [privacy-data.md](protocollen/privacy-data.md)
 - [escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
 - [shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)

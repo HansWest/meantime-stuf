@@ -2,6 +2,8 @@
 
 Gebruik dit formulier voor feiten, niet voor interpretaties.
 
+[👉 Liever digitaal melden? Gebruik het mobiele formulier.](../melding-formulier.html)
+
 ## Basis
 
 Datum: ____________________________    Tijd: ____________________________

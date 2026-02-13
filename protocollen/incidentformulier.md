@@ -2,6 +2,8 @@
 
 Gebruik dit formulier voor feiten, niet voor interpretaties.
 
+[👉 Direct digitaal melden (mobiel vriendelijk)](../melding-formulier.html)
+
 ## Basis
 
 - Datum:
