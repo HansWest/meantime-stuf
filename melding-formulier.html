@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incident Melden - Kinksters</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0d0d12;
+            --card-bg: rgba(255, 255, 255, 0.05);
+            --accent-primary: #3b82f6;
+            --accent-secondary: #8b5cf6;
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --input-bg: rgba(255, 255, 255, 0.08);
+            --input-border: rgba(255, 255, 255, 0.1);
+            --glass-border: rgba(255, 255, 255, 0.15);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding: 1.5rem;
+            background-image:
+                radial-gradient(circle at 10% 20%, rgba(59, 130, 246, 0.1) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(139, 92, 246, 0.1) 0%, transparent 40%);
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+            background: var(--card-bg);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 2rem;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+
+        h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p.subtitle {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 2rem;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        label {
+            display: block;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-main);
+        }
+
+        select,
+        input,
+        textarea {
+            width: 100%;
+            padding: 1rem;
+            background: var(--input-bg);
+            border: 1px solid var(--input-border);
+            border-radius: 12px;
+            color: var(--text-main);
+            font-size: 1rem;
+            font-family: inherit;
+            transition: all 0.2s ease;
+        }
+
+        select:focus,
+        input:focus,
+        textarea:focus {
+            outline: none;
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
+            background: rgba(255, 255, 255, 0.12);
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+
+        .btn-submit {
+            width: 100%;
+            padding: 1.25rem;
+            margin-top: 1rem;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            border: none;
+            border-radius: 16px;
+            color: white;
+            font-size: 1.125rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-submit:active {
+            transform: scale(0.98);
+        }
+
+        .btn-submit:hover {
+            box-shadow: 0 10px 20px -5px rgba(59, 130, 246, 0.4);
+        }
+
+        .footer-note {
+            margin-top: 2rem;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-align: center;
+            line-height: 1.4;
+        }
+
+        /* Custom select styling for mobile */
+        select {
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='white'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='激19l-7 7-7-7' /%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 1rem center;
+            background-size: 1.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Incident Melden</h1>
+        <p class="subtitle">Vul de gegevens in. Het formulier opent daarna je email-app om de melding te versturen.</p>
+
+        <form id="incidentForm">
+            <div class="form-group">
+                <label for="event">Bij welk feestje is dit?</label>
+                <select id="event" required>
+                    <option value="" disabled selected>Kies een event...</option>
+                    <option value="Meantime">the Meantime</option>
+                    <option value="Cornertime">Cornertime</option>
+                    <option value="Puppies">Puppies</option>
+                    <option value="Sneakers">Sneakers</option>
+                    <option value="Anders">Anders</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="type">Type Incident</label>
+                <select id="type" required>
+                    <option value="" disabled selected>Wat is er gebeurd?</option>
+                    <option value="Medisch / EHBO">Medisch / EHBO</option>
+                    <option value="Grensoverschrijdend gedrag">Grensoverschrijdend gedrag</option>
+                    <option value="Garderobe / Eigendommen">Garderobe / Eigendommen</option>
+                    <option value="Verbale agressie">Verbale agressie</option>
+                    <option value="Fysieke agressie">Fysieke agressie</option>
+                    <option value="Overig">Overig</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="location">Locatie (bijv. Zaal 1, Bar, Rookruimte)</label>
+                <input type="text" id="location" placeholder="Waar gebeurde het?" required>
+            </div>
+
+            <div class="form-group">
+                <label for="reporter">Jouw Naam</label>
+                <input type="text" id="reporter" placeholder="Naam van de melder" required>
+            </div>
+
+            <div class="form-group">
+                <label for="description">Beschrijving</label>
+                <textarea id="description" placeholder="Wat is er precies gebeurd? Wie waren erbij betrokken?"
+                    required></textarea>
+            </div>
+
+            <button type="submit" class="btn-submit">
+                Verstuur via Email ➡️
+            </button>
+        </form>
+
+        <div class="footer-note">
+            Privacy: De gegevens worden lokaal verwerkt en alleen via jouw eigen email-app verstuurd naar de
+            organisatie.
+        </div>
+    </div>
+
+    <script>
+        const emailMap = {
+            'the Meantime': 'hnswest@gmail.com',
+            'Cornertime': 'rain@emailadres.nl',
+            'Under18': 'hnswest@gmail.com',
+            'Tattoo': 'hnswest@gmail.com',
+            'Anders': 'hnswest@gmail.com'
+        };
+
+        document.getElementById('incidentForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const event = document.getElementById('event').value;
+            const type = document.getElementById('type').value;
+            const location = document.getElementById('location').value;
+            const reporter = document.getElementById('reporter').value;
+            const description = document.getElementById('description').value;
+            const timestamp = new Date().toLocaleString('nl-NL');
+
+            const recipient = emailMap[event] || 'hnswest@gmail.com';
+            const subject = `[INCIDENT] ${event} - ${type}`;
+
+            // Build Markdown body
+            let body = `# Incident Melding: ${event}\n\n`;
+            body += `**Datum/Tijd:** ${timestamp}\n`;
+            body += `**Type:** ${type}\n`;
+            body += `**Locatie:** ${location}\n`;
+            body += `**Melder:** ${reporter}\n\n`;
+            body += `## Beschrijving\n${description}\n\n`;
+            body += `---\n*Gegenereerd via Meantime Incident Formulier*`;
+
+            const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+            window.location.href = mailtoLink;
+        });
+    </script>
+</body>
+
+</html>
