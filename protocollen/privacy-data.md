@@ -10,8 +10,8 @@ Kern: minimale data, veilig bewaren door Hans, beperkte toegang.
 
 ## Incidentformulier
 
-- Gebruik het standaard incidentformulier: [meantime-stuf/protocollen/incidentformulier.md](meantime-stuf/protocollen/incidentformulier.md)
-- Printversie: [meantime-stuf/protocollen/incidentformulier-print.md](meantime-stuf/protocollen/incidentformulier-print.md)
+- Gebruik het standaard incidentformulier: [incidentformulier.md](incidentformulier.md)
+- Printversie: [incidentformulier-print.md](incidentformulier-print.md)
 - Noteer feiten, geen aannames of interpretaties.
 - Schrijf geen volledige namen als dat niet nodig is.
 - Gebruik initialen of omschrijvingen waar mogelijk.

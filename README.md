@@ -21,7 +21,7 @@ Direct links once Pages is live:
 - https://hanswest.github.io/meantime-stuf/work-flow.html
 - https://hanswest.github.io/meantime-stuf/protocollen/ehbo.html
 - https://hanswest.github.io/meantime-stuf/protocollen/incidenten-protocol.html
-- https://hanswest.github.io/meantime-stuf/protocollen/toegang-polsbandjes.html
+- https://hanswest.github.io/meantime-stuf/protocollen/toegang-deurbeleid.html
 
 ## Structure
 

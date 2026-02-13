@@ -40,8 +40,8 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 ## 4. Documentatie
 
 - Feiten noteren zonder aannames.
-- Gebruik het incidentformulier: [meantime-stuf/protocollen/incidentformulier.md](meantime-stuf/protocollen/incidentformulier.md)
-- Printversie: [meantime-stuf/protocollen/incidentformulier-print.md](meantime-stuf/protocollen/incidentformulier-print.md)
+- Gebruik het incidentformulier: [incidentformulier.md](incidentformulier.md)
+- Printversie: [incidentformulier-print.md](incidentformulier-print.md)
 
 ## FetLife gegevens delen
 

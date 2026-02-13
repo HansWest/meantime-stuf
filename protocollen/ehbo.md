@@ -81,7 +81,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 
 ## Na het incident
 
-- Vul het [incidentformulier](protocollen/incidentformulier.md) in.
+- Vul het [incidentformulier](incidentformulier.md) in.
 - Meld het bij Hans (en als je de fet-naam weet te achterhalen: fijn)
 - Check-in met de betrokkene(n) later die avond als dat gepast is.
 - Zorg voor jezelf — praat met een collega als het je raakt.

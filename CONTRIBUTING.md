@@ -1,6 +1,6 @@
 # Contributing - Meantime stuff
 
-Bedankt voor je bijdrage aan de Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky party: afspraken, rollen, veiligheidsafspraken en vrijwilligersinstructies. We houden het duidelijk, feitelijk en veilig.
+The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky party: afspraken, rollen, veiligheidsafspraken en vrijwilligersinstructies. We houden het duidelijk, feitelijk en veilig. Maar met en vriendelijke toon wnat we zijn allemaal vrijwillig voor het feestje aan het werk
 
 ## Doel en scope
 
@@ -36,26 +36,28 @@ Bedankt voor je bijdrage aan de Meantime documentatie. Dit is praktisch papierwe
 
 ## Structuur voor protocollen
 
-- Protocollen staan in [meantime-stuf/protocollen/](meantime-stuf/protocollen/).
+- Protocollen staan in [protocollen/](protocollen/).
 - Verwijs in nieuwe tekst altijd naar het protocolbestand, niet naar losse kopieen.
 - Incidentformulieren staan ook in de protocollen-map (template en printversie).
-- Overzicht staat in [meantime-stuf/work-flow.md](meantime-stuf/work-flow.md).
+- Overzicht staat in [work-flow.md](work-flow.md).
 
 ## Waar wijzig ik wat
 
-- Toegang/polsbandjes: [meantime-stuf/protocollen/toegang-polsbandjes.md](meantime-stuf/protocollen/toegang-polsbandjes.md)
-- Opbouwen/afbreken: [meantime-stuf/protocollen/opbouwen-afbreken.md](meantime-stuf/protocollen/opbouwen-afbreken.md)
-- Garderobe: [meantime-stuf/protocollen/garderobe.md](meantime-stuf/protocollen/garderobe.md)
-- Incidenten en awareness: [meantime-stuf/protocollen/incidenten-protocol.md](meantime-stuf/protocollen/incidenten-protocol.md)
-- Escalatie en communicatie: [meantime-stuf/protocollen/escalatie-communicatie.md](meantime-stuf/protocollen/escalatie-communicatie.md)
-- Privacy en data: [meantime-stuf/protocollen/privacy-data.md](meantime-stuf/protocollen/privacy-data.md)
-- Shiftwissel: [meantime-stuf/protocollen/shiftwissel-overdracht.md](meantime-stuf/protocollen/shiftwissel-overdracht.md)
-- Incidentformulier (template): [meantime-stuf/protocollen/incidentformulier.md](meantime-stuf/protocollen/incidentformulier.md)
-- Incidentformulier (print): [meantime-stuf/protocollen/incidentformulier-print.md](meantime-stuf/protocollen/incidentformulier-print.md)
+- Toegang/deurbeleid: [protocollen/toegang-deurbeleid.md](protocollen/toegang-deurbeleid.md)
+- Opbouwen/afbreken: [protocollen/opbouwen-afbreken.md](protocollen/opbouwen-afbreken.md)
+- Garderobe: [protocollen/garderobe.md](protocollen/garderobe.md)
+- Incidenten en awareness: [protocollen/incidenten-protocol.md](protocollen/incidenten-protocol.md)
+- Escalatie en communicatie: [protocollen/escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
+- EHBO: [protocollen/ehbo.md](protocollen/ehbo.md)
+- Privacy en data: [protocollen/privacy-data.md](protocollen/privacy-data.md)
+- Shiftwissel: [protocollen/shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
+- Incidentformulier (template): [protocollen/incidentformulier.md](protocollen/incidentformulier.md)
+- Incidentformulier (print): [protocollen/incidentformulier-print.md](protocollen/incidentformulier-print.md)
 
 ## Schrijfstijl
 
 - Kort en praktisch; bullets waar mogelijk.
+- vriendelijk en gezamenlijk
 - Feitelijk, neutraal en zonder veroordelende taal.
 - Consistente termen (bijv. "vrijwilliger", "organisatie", "Awareness Monitor").
 - Gebruik vaste rolbenamingen (bijv. Awareness Monitor, Garderobe) zoals in de protocollen.
