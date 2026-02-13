@@ -9,7 +9,7 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 - [privacy-data.md](protocollen/privacy-data.md)
 - [escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
 - [shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
-- [toegang-polsbandjes.md](protocollen/toegang-polsbandjes.md)
+- [toegang-deurbeleid.md](protocollen/toegang-deurbeleid.md)
 - [opbouwen-afbreken.md](protocollen/opbouwen-afbreken.md)
 - [garderobe.md](protocollen/garderobe.md)
 - [incidenten-protocol.md](protocollen/incidenten-protocol.md)
@@ -27,9 +27,9 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 **Shiftwissel**
 Zie protocol: [shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
 
-## Toegang / entry + polsbandjes
+## Toegang / entry + deurbeleid
 
-Zie protocol: [toegang-polsbandjes.md](protocollen/toegang-polsbandjes.md)
+Zie protocol: [toegang-deurbeleid.md](protocollen/toegang-deurbeleid.md)
 
 ## Opbouwen en afbreken
 
