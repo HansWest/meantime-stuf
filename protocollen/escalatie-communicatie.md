@@ -5,12 +5,12 @@ Kern: duidelijke lijn, korte feiten, juiste kanaal.
 ## Escalatie lijn
 
 - Eerst: adem in, adem uit, en dan pas handelen.
-- Bij twijfel of risico: als het om the Eagle gaat: Michael roepen. Anders Hans optrommelen
-- Bij acuut gevaar: direct stoppen en veiligheid organiseren voor jezelf en de bezoekers.
+- Bij twijfel of risico: bij The Eagle Michael vragen; anders Hans erbij halen.
+- Bij acuut gevaar: stop direct en organiseer veiligheid voor jezelf en de bezoekers.
 
 ## Begrippen
 
-- Awareness Monitormonitor: Degene die de awareness rol oppakt in een situatie.
+- Awareness Monitor: Degene die de awareness rol oppakt in een situatie.
 - Operationeel eindverantwoordelijke: Hans.
 
 ## Communicatie regels
@@ -21,13 +21,13 @@ Kern: duidelijke lijn, korte feiten, juiste kanaal.
 
 ## Timing
 
-- Meld direct bij Hans bij incidenten of grensoverschrijding.
+- Meld zo snel mogelijk bij Hans bij incidenten of grensoverschrijding.
 - Bij kleinere issues: noteer en bespreek bij shiftwissel.
 
 ## Externe communicatie
 
 - Alleen kernteam communiceert extern.
-- Geen posts of replies namens Meantime zonder afstemming a.u.b..
+- Geen posts of replies namens Meantime zonder afstemming, graag.
 
 ## Voorbeeld melding (intern)
 

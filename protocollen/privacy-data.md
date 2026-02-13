@@ -15,13 +15,13 @@ Kern: minimale data, veilig bewaren door Hans, beperkte toegang.
 - Noteer feiten, geen aannames of interpretaties.
 - Schrijf geen volledige namen als dat niet nodig is.
 - Gebruik initialen of omschrijvingen waar mogelijk.
-- gebruik zoveel mogelijk de eigen woorden van de klant.
+- Gebruik zo veel mogelijk de eigen woorden van de klant.
 
 ## Voorbeeld notitie (kort)
 
 - Datum/tijd: 2026-02-05, 23:10.
 - Locatie: lounge.
-- Betrokkenen: gast A, gast B (fetlifenaam en contact gegevens op formulier)
+- Betrokkenen: gast A, gast B (FetLife-naam en contactgegevens op formulier)
 - Feiten: gast A vroeg om stop, gast B stopte niet direct.
 - Actie: betrokkenen gescheiden, Awareness Monitor erbij.
 
@@ -34,7 +34,7 @@ Kern: minimale data, veilig bewaren door Hans, beperkte toegang.
 ## Toegang
 
 - Alleen Hans en kernteam.
-- Deel alleen op need to know basis.
+- Deel alleen op need-to-know basis.
 
 ## Bewaartermijn
 

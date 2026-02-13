@@ -19,7 +19,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
    - Allergische reactie (anafylaxie)
    - Epileptische aanval die langer duurt dan 5 minuten
    
-   DOEN: bel 112:
+   Actie: bel 112:
    - Geef adres door: **Warmoesstraat 90, 1012 JH Amsterdam**
    - Stuur iemand naar de voordeur om de hulpdiensten op te vangen.
 
@@ -30,7 +30,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 
 ## 112 bellen — wat zeg je
 
-- Locatie: : **Warmoesstraat 90, 1012 JH Amsterdam** + "het is een privéfeest".
+- Locatie: **Warmoesstraat 90, 1012 JH Amsterdam** + "het is een privéfeest".
 - Wat er aan de hand is (feiten, geen diagnose).
 - Hoeveel personen betrokken.
 - Bewustzijn en ademhaling van het slachtoffer.
@@ -82,7 +82,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 ## Na het incident
 
 - Vul het [incidentformulier](incidentformulier.md) in.
-- Meld het bij Hans (en als je de fet-naam weet te achterhalen: fijn)
+- Meld het bij Hans; als je de FetLife-naam kunt achterhalen, noteer die.
 - Check-in met de betrokkene(n) later die avond als dat gepast is.
 - Zorg voor jezelf — praat met een collega als het je raakt.
 

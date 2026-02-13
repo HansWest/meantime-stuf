@@ -4,19 +4,19 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
 ## 1. Veiligheid eerst
 
-- Scheid betrokkenen direct.
+- Scheid betrokkenen zo snel mogelijk.
 - Zorg voor een rustige, private plek voor slachtoffers (deur).
 
 ## 2. Opvang slachtoffers
 
 - Vraag wat iemand nodig heeft.
 - Geen druk, geen waarom vragen.
-- Probeer wel Fetlife naam/ telefoonnummer of email te varagen zodat Hans contact kan opnemen
-- bied drankje aan op de drankkaart van de organisatie
+- Probeer, als dat veilig voelt, de FetLife-naam/telefoonnummer/e-mail te noteren zodat Hans contact kan opnemen.
+- Bied een drankje aan op de drankkaart van de organisatie.
 
 ## Trauma-aware aanpak
 
-- Laat het tempo bij de betrokkene!
+- Laat het tempo bij de betrokkene.
 - Gebruik validerende taal en bied keuzes.
 - Vermijd aanraking zonder expliciete toestemming!
 - Let op non-verbale signalen (Freeze/Fawn, dissociatie).
@@ -29,12 +29,12 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 ## 3. Dader benaderen
 
 - Vraag een andere medewerker om deze te benaderen.
-- Hans optrommelen (gewoon inbreken in spel situaties als nodig).
-- Schrijf kort op wat deze zegt over het gebeurde, feitelijk en zakelijk. Gebruik eigen woorden van dader.
+- Hans erbij halen (zo nodig kort onderbreken).
+- Schrijf kort op wat deze zegt over het gebeurde, feitelijk en zakelijk. Gebruik eigen woorden van de betrokkene.
 - Volg protocol en huisregels.
-- Hoor en wederhoor alleen als dat veilig is, anders er zo verilig mogelijk uit met de dader
+- Hoor en wederhoor alleen als dat veilig is; anders zo veilig mogelijk afronden met de betrokkene.
 - Bij duidelijke overschrijding: verwijdering volgens huisregels.
-- Probeer wel Fetlife naam/ telefoonnummer of email te varagen zodat Hans contact kan opnemen
+- Probeer, als dat veilig voelt, de FetLife-naam/telefoonnummer/e-mail te noteren zodat Hans contact kan opnemen.
 
 
 ## 4. Documentatie
@@ -46,7 +46,7 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 ## FetLife gegevens delen
 
 - Alleen met expliciete toestemming van het slachtoffer.
-- Deel niet direct om eigen rechter spelen te voorkomen.
+- Deel niet direct net het slachtoffer; zo voorkomen we eigen rechter spelen.
 - Organisatie houdt gegevens en deelt die met politie bij aangifte.
 
 ## 5. Follow up

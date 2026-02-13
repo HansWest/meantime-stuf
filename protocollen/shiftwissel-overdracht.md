@@ -5,7 +5,7 @@ Kern: korte overdracht, feiten, open punten.
 ## Overlap
 
 - Alle rollen dragen over aan de opvolger.
-- niet zo maar weglopen zonder overdracht aan je opvolger
+- Zorg dat je altijd even overdraagt aan je opvolger voordat je weggaat.
 
 ## Wat draag je over
 

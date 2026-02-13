@@ -64,7 +64,7 @@ Datum van eventuele verwijdering: _______________________________________
 
 ## Besluit en conclusie
 
-Sanction (bijv. waarschuwing, ban dit feest, permanente ban): ____________
+Sanctie (bijv. waarschuwing, ban dit feest, permanente ban): _____________
 
 _________________________________________________________________________
 

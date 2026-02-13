@@ -1,6 +1,6 @@
 # Contributing - Meantime stuff
 
-The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky party: afspraken, rollen, veiligheidsafspraken en vrijwilligersinstructies. We houden het duidelijk, feitelijk en veilig. Maar met en vriendelijke toon wnat we zijn allemaal vrijwillig voor het feestje aan het werk
+The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky party: afspraken, rollen, veiligheidsafspraken en vrijwilligersinstructies. We houden het duidelijk, feitelijk en veilig. Maar met een vriendelijke toon, want we doen dit samen en vrijwillig.
 
 ## Doel en scope
 
@@ -14,7 +14,7 @@ The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky 
 - Voeg nieuwe details toe in het juiste protocolbestand.
 - Update of vervang bestaande tekst met een link als er al een protocol bestaat.
 - Stel vragen bij onduidelijkheden in plaats van te gokken.
-- Gebruik work-flow.md als overzicht file
+- Gebruik work-flow.md als overzicht.
 
 ## Wat je hier wel/niet schrijft
 
@@ -57,7 +57,7 @@ The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky 
 ## Schrijfstijl
 
 - Kort en praktisch; bullets waar mogelijk.
-- vriendelijk en gezamenlijk
+- Vriendelijk en gezamenlijk.
 - Feitelijk, neutraal en zonder veroordelende taal.
 - Consistente termen (bijv. "vrijwilliger", "organisatie", "Awareness Monitor").
 - Gebruik vaste rolbenamingen (bijv. Awareness Monitor, Garderobe) zoals in de protocollen.

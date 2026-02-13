@@ -10,7 +10,7 @@ Kern: veilig, gestructureerd, niets vergeten.
 - Voordeur Meantime en andere Meantime kaarten.
 
 ## Afbreken
-*draag handschoentjes als je opruimt*
+Draag handschoentjes tijdens het opruimen.
 - Flessen en glazen weg als het licht aan gaat.
 - Touw opruimen en suspensie punten van het plafond.
 - Matrassen afnemen.
