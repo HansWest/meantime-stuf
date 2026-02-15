@@ -20,7 +20,7 @@ Kern: duidelijke checks, rustige ontvangst, consistente uitleg, escalaties helde
 ## Uitleg basisregels
 
 - Leg basisregels kort uit (**verbal** consent: eerst vragen, respect voor alle betrokkenen, geen foto's; als er foto's zijn dan via Eindverantwoordelijke en op zijn telefoon).
-- Benadruk dat iedereen bij disrespect of consentoverschrijding meteen naar ons toe mag komen og altijd mag stoppen.
+- Benadruk dat iedereen bij disrespect of consentoverschrijding meteen naar ons toe mag komen of altijd mag stoppen.
 - We horen het graag als iemand vragen heeft over de basisregels.
 - Verwijs bij vragen naar FAQ, Awareness Monitor of Eindverantwoordelijke.
 

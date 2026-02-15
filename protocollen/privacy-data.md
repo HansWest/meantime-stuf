@@ -10,8 +10,8 @@ Kern: minimale data, veilig bewaren door Eindverantwoordelijke, beperkte toegang
 
 ## Incidentformulier
 
-- Gebruik het standaard incidentformulier: [incidentformulier.md](incidentformulier.md)
-- Printversie: [incidentformulier-print.md](incidentformulier-print.md)
+- Gebruik het standaard incidentformulier: [../formulieren/incidentformulier.md](../formulieren/incidentformulier.md)
+- Printversie: [../formulieren/incidentformulier-print.md](../formulieren/incidentformulier-print.md)
 - Noteer feiten, geen aannames of interpretaties.
 - Schrijf geen volledige namen als dat niet nodig is.
 - Gebruik initialen of omschrijvingen waar mogelijk.

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Incident Melden - Kinksters</title>
+    <title>Incident Melden - Meantime</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
@@ -225,6 +225,25 @@
                 <textarea id="needs" placeholder="Wat hebben de betrokkenen nu nodig?"></textarea>
             </div>
 
+            <div style="margin: 2rem 0; padding-top: 1rem; border-top: 1px dashed var(--glass-border);">
+                <h2 style="font-size: 1.25rem; margin-bottom: 1rem; color: var(--accent-primary);">Afhandeling (Crew alleen)</h2>
+                
+                <div class="form-group">
+                    <label for="staff">Betrokken medewerkers</label>
+                    <input type="text" id="staff" placeholder="Wie van de crew hielp mee?">
+                </div>
+
+                <div class="form-group">
+                    <label for="follow_up">Follow-up afspraken</label>
+                    <textarea id="follow_up" placeholder="Check-ins, afspraken of doorverwijzingen..."></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="decision">Besluit / Sancties</label>
+                    <textarea id="decision" placeholder="Waarschuwing, ban, etc."></textarea>
+                </div>
+            </div>
+
             <button type="submit" class="btn-submit">
                 Verstuur via Email ➡️
             </button>
@@ -258,6 +277,9 @@
             const description = document.getElementById('description').value;
             const actions = document.getElementById('actions').value;
             const needs = document.getElementById('needs').value;
+            const staff = document.getElementById('staff').value;
+            const follow_up = document.getElementById('follow_up').value;
+            const decision = document.getElementById('decision').value;
 
             const recipient = emailMap[event] || 'hnswest@gmail.com';
             const subject = `[INCIDENT] ${event} - ${type}`;
@@ -275,6 +297,11 @@
             body += `## Feiten (korte beschrijving)\n${description}\n\n`;
             body += `## Acties direct genomen\n${actions}\n\n`;
             body += `## Behoefte van betrokkenen\n${needs}\n\n`;
+
+            body += `## Afhandeling (Crew)\n`;
+            body += `- **Staf:** ${staff}\n`;
+            body += `- **Follow-up:** ${follow_up}\n`;
+            body += `- **Besluit:** ${decision}\n\n`;
             
             body += `---\n*Gegenereerd via Meantime Incident Formulier*`;
 

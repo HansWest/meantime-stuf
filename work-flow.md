@@ -6,7 +6,7 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 
 ## Protocollen (losse bestanden)
 
-[👉 Direct digitaal incident melden](melding-formulier.html)
+[👉 Direct digitaal incident melden](formulieren/melding-formulier.html)
 
 - [privacy-data.md](protocollen/privacy-data.md)
 - [escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
@@ -17,8 +17,15 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 - [garderobe.md](protocollen/garderobe.md)
 - [incidenten-protocol.md](protocollen/incidenten-protocol.md)
 - [ehbo.md](protocollen/ehbo.md)
-- [incidentformulier.md](protocollen/incidentformulier.md)
-- [incidentformulier-print.md](protocollen/incidentformulier-print.md)
+- [incidentformulier.md](formulieren/incidentformulier.md)
+- [incidentformulier-print.md](formulieren/incidentformulier-print.md)
+
+## Andere hulpmiddelen
+
+- [Onkosten indienen](formulieren/onkostenvergoeding.html) / [Print](formulieren/onkostenvergoeding-print.md)
+- [Schade of Vermissing](formulieren/schade-vermissing.html) / [Print](formulieren/schade-vermissing-print.md)
+- [Evaluatie & Feedback](formulieren/evaluatie.html) / [Print](formulieren/evaluatie-print.md)
+- [Logboek & Shiftwissel](formulieren/logboek.html) / [Print](formulieren/logboek-print.md)
 
 ## Rollen en shifts
 

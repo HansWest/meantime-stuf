@@ -1,8 +1,8 @@
-# Incidenten protocol (Awareness)
+# Incidenten protocol (Awareness Monitor)
 
 Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
-## De rol van Awareness
+## De rol van Awareness Monitor
 
 De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op de vloer. 
 - **Herkenbaarheid**: De Awareness Monitor is te herkennen aan het dragen van de **sash**.
@@ -47,8 +47,8 @@ De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op
 ## 4. Documentatie
 
 - Feiten noteren zonder aannames.
-- Gebruik het incidentformulier: [incidentformulier.md](incidentformulier.md)
-- Printversie: [incidentformulier-print.md](incidentformulier-print.md)
+- Gebruik het incidentformulier: [../formulieren/incidentformulier.md](../formulieren/incidentformulier.md)
+- Printversie: [../formulieren/incidentformulier-print.md](../formulieren/incidentformulier-print.md)
 
 ## FetLife gegevens delen
 

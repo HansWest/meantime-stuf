@@ -39,7 +39,7 @@ The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky 
 
 - Protocollen staan in [protocollen/](protocollen/).
 - Verwijs in nieuwe tekst altijd naar het protocolbestand, niet naar losse kopieen.
-- Incidentformulieren staan ook in de protocollen-map (template en printversie).
+- Incidentformulieren staan in de map [formulieren/](formulieren/) (online, template en printversie).
 - Overzicht staat in [work-flow.md](work-flow.md).
 
 ## Waar wijzig ik wat
@@ -52,8 +52,10 @@ The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky 
 - EHBO: [protocollen/ehbo.md](protocollen/ehbo.md)
 - Privacy en data: [protocollen/privacy-data.md](protocollen/privacy-data.md)
 - Gezamenlijke overdracht & shiftwissel: [protocollen/gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)
-- Incidentformulier (template): [protocollen/incidentformulier.md](protocollen/incidentformulier.md)
-- Incidentformulier (print): [protocollen/incidentformulier-print.md](protocollen/incidentformulier-print.md)
+- Incidentformulier (template): [formulieren/incidentformulier.md](formulieren/incidentformulier.md)
+- Incidentformulier (print): [formulieren/incidentformulier-print.md](formulieren/incidentformulier-print.md)
+- Online incidentmelding: [formulieren/melding-formulier.html](formulieren/melding-formulier.html)
+- Andere formulieren (Onkosten, Schade, Evaluatie, Logboek): [formulieren/](formulieren/)
 
 ## Schrijfstijl
 

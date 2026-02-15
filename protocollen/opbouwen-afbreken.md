@@ -11,12 +11,12 @@ Kern: veilig, gestructureerd, niets vergeten.
 
 ## Afbreken
 Draag handschoentjes tijdens het opruimen.
-- Flessen en glazen vast weghalen weg als het licht aan gaat.
-- Touw opruimen in een zak en suspensie punten van het plafond.
-- Matrassen afnemen en opruimen
-- bondagematjes opruimen naar zolder.
+- Flessen en glazen vast weghalen als het licht aan gaat.
+- Touw opruimen in een zak en suspensiepunten van het plafond.
+- Matrassen afnemen en opruimen.
+- Bondagematjes opruimen naar zolder.
 - Podium afbreken.
 - Eventueel touwwerk van de muur.
 - Kaarten tellen.
 - Tablet en scanner en diens oplader in de koffer.
-- Koffer overhandigen aan Michael of Erik.
+- Koffer overhandigen aan de Eindverantwoordelijke.
