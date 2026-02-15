@@ -13,14 +13,14 @@ Kern: overzicht, veiligheid, duidelijkheid.
 ## Teruggeven
 
 - Match nummer en geef jas of tas terug.
-- Bij problemen: check eerst met collega of anders met Hans.
+- Bij problemen: check eerst met collega of anders met Eindverantwoordelijke.
 
 ## Einde shift
 
 - Tel hangertjes en controleer open nummers.
-- Meld ontbrekende items direct aan Hans.
+- Meld ontbrekende items direct aan Eindverantwoordelijke.
 
 ## Voorbeeld probleem
 
 - Hangertje kwijt: noteer omschrijving van jas/tas en tijd.
-- Meld direct aan Hans en Awareness Monitor.
+- Meld direct aan Eindverantwoordelijke en Awareness Monitor.

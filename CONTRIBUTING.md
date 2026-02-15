@@ -6,7 +6,8 @@ The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky 
 
 - Dit is organisatorische documentatie: geen expliciete seksuele beschrijvingen.
 - Focus op veiligheid, consent, logistiek, communicatie en nazorg.
-- Respecteer privacy: deel geen persoonlijke of herleidbare gegevens.
+- Taken en verantwoordelijkheden hebben één consistente verwoording.
+- Verantwoordelijkheden zijn duidelijk verdeeld.
 
 ## Single source of truth
 
@@ -50,7 +51,7 @@ The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky 
 - Escalatie en communicatie: [protocollen/escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
 - EHBO: [protocollen/ehbo.md](protocollen/ehbo.md)
 - Privacy en data: [protocollen/privacy-data.md](protocollen/privacy-data.md)
-- Shiftwissel: [protocollen/shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
+- Gezamenlijke overdracht & shiftwissel: [protocollen/gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)
 - Incidentformulier (template): [protocollen/incidentformulier.md](protocollen/incidentformulier.md)
 - Incidentformulier (print): [protocollen/incidentformulier-print.md](protocollen/incidentformulier-print.md)
 

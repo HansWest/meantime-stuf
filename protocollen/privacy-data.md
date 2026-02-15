@@ -1,6 +1,6 @@
 # Privacy & data protocol
 
-Kern: minimale data, veilig bewaren door Hans, beperkte toegang.
+Kern: minimale data, veilig bewaren door Eindverantwoordelijke, beperkte toegang.
 
 ## Doel en scope
 
@@ -33,7 +33,7 @@ Kern: minimale data, veilig bewaren door Hans, beperkte toegang.
 
 ## Toegang
 
-- Alleen Hans en kernteam.
+- Alleen Eindverantwoordelijke.
 - Deel alleen op need-to-know basis.
 
 ## Bewaartermijn
@@ -43,4 +43,4 @@ Kern: minimale data, veilig bewaren door Hans, beperkte toegang.
 
 ## Bij twijfel
 
-- Escaleer naar Hans of kernteam.
+- Escaleer naar Eindverantwoordelijke.

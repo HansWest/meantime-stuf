@@ -10,7 +10,8 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 
 - [privacy-data.md](protocollen/privacy-data.md)
 - [escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
-- [shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
+- [eindverantwoordelijke.md](protocollen/eindverantwoordelijke.md)
+- [gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)
 - [toegang-deurbeleid.md](protocollen/toegang-deurbeleid.md)
 - [opbouwen-afbreken.md](protocollen/opbouwen-afbreken.md)
 - [garderobe.md](protocollen/garderobe.md)
@@ -21,13 +22,14 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 
 ## Rollen en shifts
 
-- **Host/Welcome**: ontvangst, tickets, polsbandjes, basisregels.
-- **Awareness**: aanspreekpunt voor grensoverschrijdingen.
+- **Eindverantwoordelijke**: facilitering, planning, financiën en vibe-management.
+- **Ontvangst-crew**: ontvangst, tickets, polsbandjes, basisregels.
+- **Awareness Monitor**: aanspreekpunt voor grensoverschrijdingen (te herkennen aan de **sash**).
 - **Garderobe**: jassen, tassen en hangertjes.
-- **Runner**: kleine klussen, materialen, communicatie.
+- **Gezamenlijke verantwoordelijkheid**: kleine klussen, materialen, communicatie.
 
 **Shiftwissel**
-Zie protocol: [shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
+Zie protocol: [gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)
 
 ## Toegang / entry + deurbeleid
 

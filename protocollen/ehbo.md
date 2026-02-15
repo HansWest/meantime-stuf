@@ -24,7 +24,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
    - Stuur iemand naar de voordeur om de hulpdiensten op te vangen.
 
 3. **Geef eerste hulp** — zie onderstaande situaties.
-4. **Roep Hans of Awareness Monitor erbij.**
+4. **Roep Eindverantwoordelijke of Awareness Monitor erbij.**
 5. **Documenteer** — vul het incidentformulier in na afloop.
 
 
@@ -49,7 +49,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 - Rustig praten, niet aanraken zonder toestemming.
 - Vraag de persoon langzaam uit te ademen (lippen tuiten).
 - Laat op een rustige plek zitten bij de deur (met badjas ivm kleding).
-- Gaat het niet over: Hans erbij halen.
+- Gaat het niet over: Eindverantwoordelijke erbij halen.
 
 ### Kleine verwondingen (snijwond, schaafwond)
 - Handschoenen aan.
@@ -82,7 +82,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 ## Na het incident
 
 - Vul het [incidentformulier](incidentformulier.md) in.
-- Meld het bij Hans; als je de FetLife-naam kunt achterhalen, noteer die.
+- Meld het bij Eindverantwoordelijke; als je de FetLife-naam kunt achterhalen, noteer die.
 - Check-in met de betrokkene(n) later die avond als dat gepast is.
 - Zorg voor jezelf — praat met een collega als het je raakt.
 

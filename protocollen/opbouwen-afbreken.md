@@ -4,16 +4,17 @@ Kern: veilig, gestructureerd, niets vergeten.
 
 ## Opbouwen
 - Tablet ophangen en scanner, beide aan de oplader.
-- Bondage matten van zolder.
+- Bondage matten van zolder halen en neerleggen onder suspension points.
 - Touw opruimen en suspensie punten van het plafond.
 - Alles in dozen onder de trap.
 - Voordeur Meantime en andere Meantime kaarten.
 
 ## Afbreken
 Draag handschoentjes tijdens het opruimen.
-- Flessen en glazen weg als het licht aan gaat.
-- Touw opruimen en suspensie punten van het plafond.
-- Matrassen afnemen.
+- Flessen en glazen vast weghalen weg als het licht aan gaat.
+- Touw opruimen in een zak en suspensie punten van het plafond.
+- Matrassen afnemen en opruimen
+- bondagematjes opruimen naar zolder.
 - Podium afbreken.
 - Eventueel touwwerk van de muur.
 - Kaarten tellen.

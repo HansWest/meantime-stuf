@@ -2,16 +2,23 @@
 
 Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
+## De rol van Awareness
+
+De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op de vloer. 
+- **Herkenbaarheid**: De Awareness Monitor is te herkennen aan het dragen van de **sash**.
+- **Focus**: Bewaken van de sfeer, aanspreekpunt bij grensoverschrijdingen en opvang van gasten die zich onveilig of onprettig voelen.
+- **Geen politie**: De rol is gericht op support en de-escalatie, niet op handhaving (dat doet de Eindverantwoordelijke zo nodig).
+
 ## 1. Veiligheid eerst
 
 - Scheid betrokkenen zo snel mogelijk.
-- Zorg voor een rustige, private plek voor slachtoffers (deur).
+- Zorg voor een rustige, private plek voor de aangever (deur).
 
-## 2. Opvang slachtoffers
+## 2. Opvang van de aangever
 
 - Vraag wat iemand nodig heeft.
 - Geen druk, geen waarom vragen.
-- Probeer, als dat veilig voelt, de FetLife-naam/telefoonnummer/e-mail te noteren zodat Hans contact kan opnemen.
+- Probeer, als dat veilig voelt, de FetLife-naam/telefoonnummer/e-mail te noteren zodat Eindverantwoordelijke contact kan opnemen.
 - Bied een drankje aan op de drankkaart van de organisatie.
 
 ## Trauma-aware aanpak
@@ -29,12 +36,12 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 ## 3. Dader benaderen
 
 - Vraag een andere medewerker om deze te benaderen.
-- Hans erbij halen (zo nodig kort onderbreken).
+- Eindverantwoordelijke erbij halen (zo nodig kort onderbreken).
 - Schrijf kort op wat deze zegt over het gebeurde, feitelijk en zakelijk. Gebruik eigen woorden van de betrokkene.
 - Volg protocol en huisregels.
 - Hoor en wederhoor alleen als dat veilig is; anders zo veilig mogelijk afronden met de betrokkene.
 - Bij duidelijke overschrijding: verwijdering volgens huisregels.
-- Probeer, als dat veilig voelt, de FetLife-naam/telefoonnummer/e-mail te noteren zodat Hans contact kan opnemen.
+- Probeer, als dat veilig voelt, de FetLife-naam/telefoonnummer/e-mail te noteren zodat Eindverantwoordelijke contact kan opnemen.
 
 
 ## 4. Documentatie
@@ -45,14 +52,14 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
 ## FetLife gegevens delen
 
-- Alleen met expliciete toestemming van het slachtoffer.
-- Deel niet direct net het slachtoffer; zo voorkomen we eigen rechter spelen.
+- Alleen met expliciete toestemming van de aangever.
+- Deel niet direct met de aangever; zo voorkomen we eigen rechter spelen.
 - Organisatie houdt gegevens en deelt die met politie bij aangifte.
 
 ## 5. Follow up
 
-- Hans checks in binnen 24-48 uur.
-- Bespreek met kernteam wat nodig is.
+- Eindverantwoordelijke checks in binnen 24-48 uur.
+- Bespreek met Eindverantwoordelijke wat nodig is.
 - Verwijs waar nodig naar hulpbronnen (slachtofferhulp, kink-aware professionals).
 
 ## Zelfzorg vrijwilligers
@@ -68,8 +75,8 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
 ## Escalatie
 
-- Awareness Monitor of Hans als eerste aanspreekpunt.
-- Bij twijfel: Hans vragen.
+- Awareness Monitor of Eindverantwoordelijke als eerste aanspreekpunt.
+- Bij twijfel: Eindverantwoordelijke vragen.
 - Geen namen in algemene groepsapps.
 - Incidenten alleen via afgesproken kanaal.
 
