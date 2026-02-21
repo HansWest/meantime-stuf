@@ -1,4 +1,4 @@
-# Meantime work flow
+# Meantime workflow
 
 Praktisch werkdocument voor vrijwilligers en organisatie. Kort, duidelijk en privacy-first.
 
@@ -17,15 +17,14 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 - [garderobe.md](protocollen/garderobe.md)
 - [incidenten-protocol.md](protocollen/incidenten-protocol.md)
 - [ehbo.md](protocollen/ehbo.md)
-- [incidentformulier.md](formulieren/incidentformulier.md)
-- [incidentformulier-print.md](formulieren/incidentformulier-print.md)
 
-## Andere hulpmiddelen
+## Online formulieren
 
-- [Onkosten indienen](formulieren/onkostenvergoeding.html) / [Print](formulieren/onkostenvergoeding-print.md)
-- [Schade of Vermissing](formulieren/schade-vermissing.html) / [Print](formulieren/schade-vermissing-print.md)
-- [Evaluatie & Feedback](formulieren/evaluatie.html) / [Print](formulieren/evaluatie-print.md)
-- [Logboek & Shiftwissel](formulieren/logboek.html) / [Print](formulieren/logboek-print.md)
+- [Incidentformulier](formulieren/incidentformulier.html) / [Print](formulieren/incidentformulier-print.html)
+- [Onkosten indienen](formulieren/onkostenvergoeding.html) / [Print](formulieren/onkostenvergoeding-print.html)
+- [Schade of vermissing](formulieren/schade-vermissing.html) / [Print](formulieren/schade-vermissing-print.html)
+- [Evaluatie & feedback](formulieren/evaluatie.html) / [Print](formulieren/evaluatie-print.html)
+- [Logboek & shiftwissel](formulieren/logboek.html) / [Print](formulieren/logboek-print.html)
 
 ## Rollen en shifts
 

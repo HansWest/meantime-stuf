@@ -1,4 +1,4 @@
-# Incidenten protocol (Awareness Monitor)
+# Incidenten en awareness (Awareness Monitor)
 
 Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
