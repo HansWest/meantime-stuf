@@ -72,31 +72,63 @@
 <body>
     <div class="container">
         <h1>Onkosten indienen</h1>
-        <p class="subtitle">Vergoedingsformulier voor gemaakte kosten.</p>
-        <form>
+        <p class="subtitle">Vul de gegevens in. Het formulier opent daarna je email-app met conceptmail.</p>
+        <form id="expenseForm">
             <div class="form-group">
-                <label>Naam vrijwilliger</label>
-                <input type="text" placeholder="Jouw volledige naam">
+                <label for="name">Naam vrijwilliger</label>
+                <input type="text" id="name" placeholder="Jouw volledige naam" required>
             </div>
             <div class="form-group">
-                <label>IBAN</label>
-                <input type="text" placeholder="NL00 BANK 0000 0000 00">
+                <label for="iban">IBAN</label>
+                <input type="text" id="iban" placeholder="NL00 BANK 0000 0000 00" required>
             </div>
             <div class="form-group">
-                <label>Totaalbedrag (€)</label>
-                <input type="number" step="0.01" placeholder="0.00">
+                <label for="amount">Totaalbedrag (€)</label>
+                <input type="number" id="amount" step="0.01" min="0" placeholder="0.00" required>
             </div>
             <div class="form-group">
-                <label>Omschrijving</label>
-                <textarea rows="3" placeholder="Wat heb je gekocht?"></textarea>
+                <label for="description">Omschrijving</label>
+                <textarea id="description" rows="3" placeholder="Wat heb je gekocht?" required></textarea>
             </div>
             <div class="form-group">
-                <label>Bonnetje (foto/scan)</label>
-                <input type="file" accept="image/*,application/pdf">
+                <label for="receipt">Bonnetje (foto/scan)</label>
+                <input type="file" id="receipt" accept="image/*,application/pdf" required>
             </div>
-            <button type="submit" class="submit-btn" onclick="alert('In een echt systeem zou dit nu verstuurd worden naar de Eindverantwoordelijke.'); return false;">Indienen</button>
+            <button type="submit" class="submit-btn">Verstuur via Email ➡️</button>
         </form>
         <a href="../index.html" class="back-link">← Terug naar dashboard</a>
     </div>
+
+    <script>
+        document.getElementById('expenseForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const name = document.getElementById('name').value.trim();
+            const iban = document.getElementById('iban').value.trim();
+            const amount = document.getElementById('amount').value;
+            const description = document.getElementById('description').value.trim();
+            const receiptInput = document.getElementById('receipt');
+            const receiptFile = receiptInput.files && receiptInput.files[0] ? receiptInput.files[0].name : '';
+
+            const recipient = 'hnswest@gmail.com';
+            const subject = `[ONKOSTEN] ${name} - €${amount}`;
+
+            let body = `# Onkostenvergoeding\n\n`;
+            body += `## Gegevens vrijwilliger\n`;
+            body += `- **Naam:** ${name}\n`;
+            body += `- **IBAN:** ${iban}\n`;
+            body += `- **Datum indiening:** ${new Date().toLocaleString('nl-NL')}\n\n`;
+            body += `## Uitgaven\n`;
+            body += `- **Totaalbedrag:** €${amount}\n`;
+            body += `- **Omschrijving:** ${description}\n\n`;
+            body += `## Bijlage\n`;
+            body += `- **Bonnetje bestand:** ${receiptFile || 'Niet gekozen'}\n`;
+            body += `- Voeg dit bestand handmatig toe als bijlage in je mail-app.\n\n`;
+            body += `---\n*Gegenereerd via Meantime Onkostenformulier*`;
+
+            const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+            window.location.href = mailtoLink;
+        });
+    </script>
 </body>
 </html>

@@ -72,31 +72,66 @@
 <body>
     <div class="container">
         <h1>Schade of Vermissing</h1>
-        <p class="subtitle">Voor meldingen over eigendommen.</p>
-        <form>
+        <p class="subtitle">Vul de gegevens in. Het formulier opent daarna je email-app met conceptmail.</p>
+        <form id="damageForm">
             <div class="form-group">
-                <label>Naam melder</label>
-                <input type="text" placeholder="Naam of FetLife-naam">
+                <label for="reporter">Naam melder</label>
+                <input type="text" id="reporter" placeholder="Naam of FetLife-naam" required>
             </div>
             <div class="form-group">
-                <label>Rol</label>
-                <select>
-                    <option>Gast</option>
-                    <option>Vrijwilliger</option>
-                    <option>Organisatie</option>
+                <label for="role">Rol</label>
+                <select id="role" required>
+                    <option value="Gast">Gast</option>
+                    <option value="Vrijwilliger">Vrijwilliger</option>
+                    <option value="Organisatie">Organisatie</option>
                 </select>
             </div>
             <div class="form-group">
-                <label>Omschrijving item</label>
-                <input type="text" placeholder="Bijv: Zwarte leren tas, merk X">
+                <label for="item">Omschrijving item</label>
+                <input type="text" id="item" placeholder="Bijv: Zwarte leren tas, merk X" required>
             </div>
             <div class="form-group">
-                <label>Wat is er gebeurd?</label>
-                <textarea rows="3" placeholder="Omschrijf de situatie..."></textarea>
+                <label for="details">Wat is er gebeurd?</label>
+                <textarea id="details" rows="3" placeholder="Omschrijf de situatie..." required></textarea>
             </div>
-            <button type="submit" class="submit-btn" onclick="alert('Melding ontvangen. De organisatie neemt zo snel mogelijk contact op.'); return false;">Melding versturen</button>
+            <div class="form-group">
+                <label for="attachment">Bijlage (foto/scan)</label>
+                <input type="file" id="attachment" accept="image/*,application/pdf" required>
+            </div>
+            <button type="submit" class="submit-btn">Verstuur via Email ➡️</button>
         </form>
         <a href="../index.html" class="back-link">← Terug naar dashboard</a>
     </div>
+
+    <script>
+        document.getElementById('damageForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const reporter = document.getElementById('reporter').value.trim();
+            const role = document.getElementById('role').value;
+            const item = document.getElementById('item').value.trim();
+            const details = document.getElementById('details').value.trim();
+            const attachmentInput = document.getElementById('attachment');
+            const attachmentFile = attachmentInput.files && attachmentInput.files[0] ? attachmentInput.files[0].name : '';
+
+            const recipient = 'hnswest@gmail.com';
+            const subject = `[SCHADE/VERMISSING] ${item} - ${reporter}`;
+
+            let body = `# Schade of Vermissing\n\n`;
+            body += `## Melding\n`;
+            body += `- **Naam melder:** ${reporter}\n`;
+            body += `- **Rol:** ${role}\n`;
+            body += `- **Item:** ${item}\n`;
+            body += `- **Datum/tijd melding:** ${new Date().toLocaleString('nl-NL')}\n\n`;
+            body += `## Situatie\n${details}\n\n`;
+            body += `## Bijlage\n`;
+            body += `- **Bestand:** ${attachmentFile || 'Niet gekozen'}\n`;
+            body += `- Voeg dit bestand handmatig toe als bijlage in je mail-app.\n\n`;
+            body += `---\n*Gegenereerd via Meantime Schade/Vermissing formulier*`;
+
+            const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+            window.location.href = mailtoLink;
+        });
+    </script>
 </body>
 </html>
