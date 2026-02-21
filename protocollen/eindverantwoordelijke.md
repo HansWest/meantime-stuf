@@ -25,4 +25,4 @@ Kern: faciliteren, organiseren, financiële integriteit en veiligheid.
 ## 5. Communicatie
 - **Extern**: Alleen de Eindverantwoordelijke communiceert naar buiten toe (social media, pers, andere organisaties).
 - **Incidentkanaal**: Coördineren van de informatie op het interne incidentkanaal.
-- **Privacy**: Bewaken dat persoonsgegevens niet onnodig gedeeld worden binnen de crew-apps.
+- **Privacy**: Bewaken dat persoonsgegevens niet onnodig gedeeld worden binnen de crew.

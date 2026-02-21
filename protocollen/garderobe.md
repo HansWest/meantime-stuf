@@ -6,18 +6,19 @@ Kern: overzicht, veiligheid, duidelijkheid.
 
 - Er zijn geen kluisjes.
 - Gasten kunnen zich omkleden waar zij zich prettig bij voelen (het is een bloot feestje).
-- Zware tassen hoeven niet aangenomen te worden (volgens FAQ).
+- Zware tassen hoeven niet aangenomen te worden (bij vragen: verwijs naar FAQ).
 - Geef hangertje mee aan de klant zodat deze zelf de jas kan ophangen.
 - Schrijf het nummer van jas en/of tas op de achterkant van de drankenkaart.
 
 ## Teruggeven
 
-- Match nummer en geef jas of tas terug.
+- Match nummer(s) en geef jas en/of tas terug.
 - Bij problemen: check eerst met collega of anders met Eindverantwoordelijke.
 
 ## Einde shift
 
-- Tel hangertjes en controleer open nummers.
+- Controleer open nummers.
+- Verzamel overgebleven jassen of tassen
 - Meld ontbrekende items direct aan Eindverantwoordelijke.
 
 ## Voorbeeld probleem

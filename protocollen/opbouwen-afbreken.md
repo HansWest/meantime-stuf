@@ -3,11 +3,14 @@
 Kern: veilig, gestructureerd, niets vergeten.
 
 ## Opbouwen
-- Tablet ophangen en scanner, beide aan de oplader.
+- Tablet ophangen aan de oplader.
+- Scanner aan de oplader aan de bar.
+- Mededelingen bordje in de hal
+- Meantime bordje op de voordeur
 - Bondage matten van zolder halen en neerleggen onder suspension points.
 - Touw opruimen en suspensie punten van het plafond.
 - Alles in dozen onder de trap.
-- Voordeur Meantime en andere Meantime kaarten.
+- Andere Meantime infor kaarten plaatsen.
 
 ## Afbreken
 Draag handschoentjes tijdens het opruimen.

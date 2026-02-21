@@ -22,6 +22,16 @@ Direct links once Pages is live:
 - https://hanswest.github.io/meantime-stuf/protocollen/ehbo.html
 - https://hanswest.github.io/meantime-stuf/protocollen/incidenten-protocol.html
 - https://hanswest.github.io/meantime-stuf/protocollen/toegang-deurbeleid.html
+- https://hanswest.github.io/meantime-stuf/formulieren/index.html
+
+## Formulieren
+
+- Overzicht: https://hanswest.github.io/meantime-stuf/formulieren/index.html
+- Nieuw incident melden: https://hanswest.github.io/meantime-stuf/formulieren/melding-formulier.html
+- Incidentformulier: https://hanswest.github.io/meantime-stuf/formulieren/incidentformulier.html
+- Onkosten indienen: https://hanswest.github.io/meantime-stuf/formulieren/onkostenvergoeding.html
+- Schade of vermissing: https://hanswest.github.io/meantime-stuf/formulieren/schade-vermissing.html
+- Logboek & shiftwissel: https://hanswest.github.io/meantime-stuf/formulieren/logboek.html
 
 ## Structure
 
