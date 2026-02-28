@@ -23,7 +23,7 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 - [Incidentformulier](formulieren/incidentformulier.html) / [Print](formulieren/incidentformulier-print.html)
 - [Onkosten indienen](formulieren/onkostenvergoeding.html) / [Print](formulieren/onkostenvergoeding-print.html)
 - [Schade of vermissing](formulieren/schade-vermissing.html) / [Print](formulieren/schade-vermissing-print.html)
-- [Logboek & shiftwissel](formulieren/logboek.html) / [Print](formulieren/logboek-print.html)
+- Logboek & shiftwissel ([Alleen print](formulieren/logboek-print.html))
 
 ## Rollen en shifts
 

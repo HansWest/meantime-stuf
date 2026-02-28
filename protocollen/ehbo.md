@@ -37,7 +37,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 - Jouw naam en telefoonnummer.
 - **Stuur iemand naar de voordeur om de hulpdiensten op te vangen.**
 
-## Veelvoorkomende situaties
+## Voorkomende situaties
 
 ### Flauwvallen / onwel worden
 - Leg de persoon neer, benen omhoog.
@@ -47,14 +47,15 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 
 ### Hyperventilatie
 - Rustig praten, niet aanraken zonder toestemming.
-- Vraag de persoon langzaam uit te ademen (lippen tuiten pfff).
+- Vraag de persoon langzaam uit te ademen (lippen tuiten "pffff").
 - Laat op een rustige plek zitten bij de deur (met badjas ivm kou of schaarse kleding).
-- Gaat het niet over: Awareness monitor erbij halen.
+- Gaat het niet over: Awareness monitor of eindverantwoordelijke erbij halen.
 
 ### Kleine verwondingen (snijwond, schaafwond)
 - Handschoenen aan.
 - Reinig met water, druk af met gaas.
 - Pleister of verband uit de EHBO-koffer.
+- Raad slachtoffer aan om eventueel langs huisarts te gaan ivm infectiekans.
 
 ### Brandwond
 - Koel minimaal 10 minuten onder lauwwarm stromend water.
@@ -64,27 +65,27 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 ### Allergische reactie
 - Vraag of de persoon medicatie bij zich heeft (EpiPen).
 - Bij zwelling van gezicht/keel of ademhalingsproblemen: *direct* 112 bellen*.
-- Houd de persoon rechtop of voorover steunen (makkelijker ademen).
+- Houd de persoon rechtop of laat voorover steunen (meer adem ivm hulp ademhalingsspieren).
 
 ### Drugsincident / overdosis
-- Niet veroordelen, niet in paniek raken.
-- Vraag wat de persoon heeft ingenomen (als deze kan praten).
-- Bij bewusteloosheid: stabiele zijligging, 112 bellen.
+- Niet veroordelen, niet in paniek raken (hoe minder bedreigend jij bent, hoe relaxter zij zijn
+- Vraag de persoon (als deze kan praten) of vrienden wat iemand heeft ingenomen ivm EHBO.
+- Bij bewusteloosheid: in de stabiele zijligging, 112 bellen.
 - Vermeld bij 112 eerlijk wat er is ingenomen — zij zijn er om te helpen, niet om te veroordelen.
 
 ## Kinky context: specifieke aandachtspunten
 
 - **Touw/bondage**: bij witte of blauwe afgebonden ledematen: rustig losmaken. Bij tintelingen of gevoelsverlies **direct losmaken**. Knip het touw door als knopen niet snel genoeg losgaan (verbandschaar in EHBO-koffer).
 - **Impact play**: blauwe plekken zijn normaal, maar open wonden of aanhoudende pijn niet — bied EHBO aan en waarschuww awareness monitor.
-- **Suspension**: bij duizeligheid of misselijkheid na het laten zakken: langzaam neerleggen, benen omhoog, water geven als iemand weer zelf rechtop kan zitten.
-- **Drop (sub-drop / top-drop)**: kan lijken op flauwvallen of paniek. Bied warmte (deken), water, suiker (snoep/sap) en rust aan (plekje bij voordeur). Dit is geen medisch noodgeval, maar vraagt wel veilige aandacht.
+- **Suspension**: bij duizeligheid of misselijkheid na het laten zakken: langzaam neerleggen, benen omhoog, water geven (als iemand weer zelf rechtop kan zitten).
+- **Drop (sub-drop / top-drop)**: kan lijken op flauwvallen of paniek. Bied warmte (badjas), water, suiker (snoep/sap), frisse lucht en rust aan (plekje bij voordeur). Dit is geen medisch noodgeval, maar vraagt wel *veilige* aandacht.
 
 ## Na het incident
 
-- Vul het [incidentformulier](incidentformulier.md) in.
-- Meld het bij Eindverantwoordelijke; als je de FetLife-naam kunt achterhalen, noteer die.
-- Check-in met de betrokkene(n) later die avond als dat gepast is.
-- Zorg vooral ook voor jezelf achteraf — praat met een collega als het je raakt.
+- Vul even het [incidentformulier](incidentformulier.md) in.
+- Meld incident bij de eindverantwoordelijke; als je de adresgegevens of FetLife-naam kunt achterhalen, noteer die.
+- Awareness monitor: check-in met de betrokkene(n) (zelf of vrienden), later op de avond, als dat gepast is.
+- Zorg vooral ook voor jezelf achteraf — praat met elkaar als het je raakt.
 
 
 ## EHBO-koffer checklist

@@ -1,12 +1,11 @@
 # Gezamenlijk bij Overdracht & Shiftwissel
 
-Kern: gezamenlijke overdracht, feiten delen, open punten borgen voor vertrek.
+Kern: gezamenlijke overdracht, feiten delen, open punten borgen vóór vertrek.
 
 ## Shiftwissel algemeen
-- We doen dit voor de fun maar met verantwoordelijkheid.
 - Een shiftwissel is een bewust momentje tussen degene die de post verlaat en degene die de verantwoordelijkheid draagt na dat moment.
 - De focus ligt op overzicht en warme overdracht.
-- We doen het samen, we mogen spelen, maar we dragen samen ook verantwoordelijkheid.
+- We doen het samen, we mogen spelen, en fun beleven maar we dragen samen ook verantwoordelijkheid voor gasten.
 
 ## Algemene onderdelen (Shiftwissel)
 - **Overlap**: Zorg dat je altijd even overdraagt aan je opvolger voordat je de taak verlaat. 

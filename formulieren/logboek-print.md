@@ -18,6 +18,18 @@ Tijd    | Voorval / Status                                     | Initialen
         |                                                      |
         |                                                      |
         |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
+        |                                                      |
 
 ## Overdrachtspunten voor de volgende shift
 
