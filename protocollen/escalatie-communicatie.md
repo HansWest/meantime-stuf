@@ -5,17 +5,17 @@ Kern: duidelijke lijn, korte feiten, juiste kanaal.
 ## Escalatie lijn
 
 - Eerst: adem in, adem uit, en dan **handelen**.
-- Bij twijfel of risico: bij de Eindverantwoordelijke vragen.
-- Bij acuut gevaar: stop direct met je taak en organiseer veiligheid voor jezelf en de bezoekers.
+- Bij twijfel of risico: bij 'de eindverantwoordelijke' vragen.
+- Bij acuut gevaar: stop direct met je taak en organiseer de veiligheid voor jezelf en de bezoekers.
 - Waarschuw Michael of Erik bij acute situaties als brand of instorting
-- Bij twijfel of risico: bij de Eindverantwoordelijke (laten) zoeken.
+- Bij twijfel of risico: bij 'de eindverantwoordelijke' (laten) zoeken.
 - Achteraf: afronden door verslag te leggen (incidenten formulier)
 
 ## Begrippen
 
-- De Signaleerder: De medewerker die aangesproken wordt door gasten of die zelf iets ziet dat aandacht nodig heeft.
+- De Signaleerder: De medewerker die aangesproken wordt door een gast of de medewerker die zelf iets ziet dat aandacht nodig heeft.
 - Awareness Monitor: Degene die de awareness-rol draagt op dat moment (herkenbaar aan de sash).
-- Eindverantwoordelijke: De persoon die de algehele leiding heeft over het event (kan overeenkomen met eindverantwoordelijke).
+- Eindverantwoordelijke: De persoon die de algehele leiding heeft over het event (kan overeenkomen met Awareness Monitor).
 
 ## Communicatie regels
 
@@ -25,13 +25,13 @@ Kern: duidelijke lijn, korte feiten, juiste kanaal.
 
 ## Timing
 
-- Echte issues: meld zo snel mogelijk bij Awareness Monitor en Eindverantwoordelijke bij incidenten of grensoverschrijding.
-- Bij kleinere issues: noteer en bespreek bij shiftwissel.
+- Echte issues: meld *zo snel mogelijk* bij Awareness Monitor en Eindverantwoordelijke bij incidenten of grensoverschrijding (gewoon storen als jij dat nodig voelt).
+- Kleinere issues: noteer en bespreek bij shiftwissel.
 
 ## Externe communicatie
 
-- Alleen Eindverantwoordelijke communiceert extern.
-- Geen posts of replies namens Meantime zonder afstemming, graag.
+- Alleen de eindverantwoordelijke communiceert extern.
+- Geen posts of replies namens Meantime zonder afstemming met eindverantwoordelijke, graag.
 
 ## Voorbeeld melding (intern)
 
