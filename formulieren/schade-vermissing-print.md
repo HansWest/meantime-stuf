@@ -1,4 +1,4 @@
-# Schade- of Vermissingsformulier (Printversie)
+# Schade- of Vermissingsformulier
 
 Voor incidenten met eigendommen van gasten of de organisatie.
 
