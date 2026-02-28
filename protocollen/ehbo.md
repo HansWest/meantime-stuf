@@ -17,7 +17,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
    - Ernstige bloeding
    - Vermoeden van botbreuk of nekletsel
    - Allergische reactie (anafylaxie)
-   - Epileptische aanval die langer duurt dan 5 minuten
+   - Epileptische aanval die langer duurt dan 4 minuten
    
    Actie: bel 112:
    - Geef adres door: **Warmoesstraat 90, 1012 JH Amsterdam**

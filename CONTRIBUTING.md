@@ -52,9 +52,8 @@ The Meantime documentatie. Dit is praktisch papierwerk voor een populaire kinky 
 - EHBO: [protocollen/ehbo.md](protocollen/ehbo.md)
 - Privacy en data: [protocollen/privacy-data.md](protocollen/privacy-data.md)
 - Gezamenlijke overdracht & shiftwissel: [protocollen/gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)
-- Incidentformulier (template): [formulieren/incidentformulier.md](formulieren/incidentformulier.md)
+- Incidentformulier: [formulieren/incidentformulier.html](formulieren/incidentformulier.html)
 - Incidentformulier (print): [formulieren/incidentformulier-print.md](formulieren/incidentformulier-print.md)
-- Online incidentmelding: [formulieren/melding-formulier.html](formulieren/melding-formulier.html)
 - Andere formulieren (Onkosten, Schade, Evaluatie, Logboek): [formulieren/](formulieren/)
 
 ## Schrijfstijl

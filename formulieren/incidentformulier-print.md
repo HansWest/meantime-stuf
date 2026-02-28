@@ -2,7 +2,7 @@
 
 Gebruik dit formulier voor feiten, niet voor interpretaties.
 
-[👉 Liever digitaal melden? Gebruik het mobiele formulier.](melding-formulier.html)
+[👉 Liever digitaal melden? Gebruik het mobiele formulier.](incidentformulier.html)
 
 ## 1. De Melding (Basis)
 
@@ -14,7 +14,7 @@ Locatie: ____________________________________________________________________
 
 Melder (naam + rol): ________________________________________________________
 
-Betrokkenen (omschrijving, geen volledige namen):
+Betrokkenen (omschrijving, geen volledige namen aks niet gevraagd (omschrijving: 'aangever' en veroorzaker')):
 
 _____________________________________________________________________________
 

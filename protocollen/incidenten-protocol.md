@@ -6,12 +6,12 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
 De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op de vloer. 
 - **Herkenbaarheid**: De Awareness Monitor is te herkennen aan het dragen van de **sash**.
-- **Focus**: Bewaken van de sfeer, aanspreekpunt bij grensoverschrijdingen en opvang van gasten die zich onveilig of onprettig voelen.
-- **Geen politie**: De rol is gericht op support en de-escalatie, niet op handhaving (dat doet de Eindverantwoordelijke zo nodig).
+- **Focus**: Bewaken van de sfeer, aanspreekpunt bij grensoverschrijdingen en opvang van gasten die zich onveilig of onprettig voelen (aangevers).
+- **Geen politie**: De rol is gericht op support en de-escalatie, niet op handhaving (het aanspreken van de veroorzaker dat doet de eindverantwoordelijke).
 
 ## 1. Veiligheid eerst
 
-- Scheid betrokkenen zo snel mogelijk.
+- Scheid betrokkenen ('aangever' en 'veroorzaker') zo snel mogelijk.
 - Zorg voor een rustige, private plek voor de aangever (deur).
 
 ## 2. Opvang van de aangever
@@ -33,7 +33,7 @@ De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op
 - Zeg: "Ik geloof je", "Dit is niet jouw schuld", "Je bent nu veilig".
 - Vraag: "Wat heb je nu nodig?", "Wil je dat ik bij je blijf?", "Wil je iemand erbij?".
 
-## 3. Dader benaderen
+## 3. Veroorzaker benaderen
 
 - Vraag een andere medewerker om deze te benaderen.
 - Eindverantwoordelijke erbij halen (zo nodig kort onderbreken).
@@ -47,30 +47,31 @@ De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op
 ## 4. Documentatie
 
 - Feiten noteren zonder aannames.
-- Gebruik het incidentformulier: [../formulieren/incidentformulier.md](../formulieren/incidentformulier.md)
+- Gebruik het incidentformulier: [../formulieren/incidentformulier.html](../formulieren/incidentformulier.html)
 - Printversie: [../formulieren/incidentformulier-print.md](../formulieren/incidentformulier-print.md)
 
-## FetLife gegevens delen
+## FetLifenaam en adres-gegevens delen
 
-- Alleen met expliciete toestemming van de aangever.
-- Deel niet direct met de aangever; zo voorkomen we eigen rechter spelen.
-- Organisatie houdt gegevens en deelt die met politie bij aangifte.
+- Vraag aan de **aangever** (we nemen alleen contact op met expliciete toestemming van de aangever)
+- Vraag aan de **veroorzaker** zodat we contact kunnen opnemen over de duur van eventuele maatregelen.
+- Deel gegevens veroorzaker *niet direct* met de aangever (omdat mensen, of vrienden soms 'eigen rechter' gaan spelen).
+- Organisatie (eindverantwoordelijke) houdt gegevens en deelt deze met politie bij aangifte.
 
 ## 5. Follow up
 
 - Eindverantwoordelijke checks in binnen 24-48 uur.
-- Bespreek met Eindverantwoordelijke wat nodig is.
+- Bespreek alsjeblieft met de eindverantwoordelijke wat nodig is.
 - Verwijs waar nodig naar hulpbronnen (slachtofferhulp, kink-aware professionals).
 
 ## Zelfzorg vrijwilligers
 
 - Bespreek het incident met mede-vrijwilligers (zonder identificeerbare details).
-- Let op secundaire traumatisering.
+- Pas op voor secundaire traumatisering.
 - Gebruik beschikbare ondersteuning.
 
-## Kinky-context tips
+## Kinky-context (tips)
 
-- Erken power exchange en schaamte rond "submissie misbruikt voelen".
+- Erken power exchange, maar ook schaamte rond "submissie die misbruikt voelt".
 - Verwijs naar kink-aware professionals indien nodig.
 
 ## Escalatie
@@ -84,6 +85,6 @@ De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op
 
 - 20:05 melding bij awareness.
 - 20:07 betrokkenen gescheiden, gast A vraagt rust.
-- 20:10 dader aangesproken door tweede medewerker.
+- 20:10 veroorzaker aangesproken door tweede medewerker.
 - 20:15 incidentformulier ingevuld.
 - 21:30 korte check-in.
