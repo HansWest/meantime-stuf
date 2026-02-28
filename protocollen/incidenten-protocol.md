@@ -33,7 +33,7 @@ De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op
 - Zeg: "Ik geloof je", "Dit is niet jouw schuld", "Je bent nu veilig".
 - Vraag: "Wat heb je nu nodig?", "Wil je dat ik bij je blijf?", "Wil je iemand erbij?".
 
-## 3. Dader benaderen
+## 3. Veroorzaker benaderen
 
 - Vraag een andere medewerker om deze te benaderen.
 - Eindverantwoordelijke erbij halen (zo nodig kort onderbreken).
@@ -84,6 +84,6 @@ De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op
 
 - 20:05 melding bij awareness.
 - 20:07 betrokkenen gescheiden, gast A vraagt rust.
-- 20:10 dader aangesproken door tweede medewerker.
+- 20:10 veroorzaker aangesproken door tweede medewerker.
 - 20:15 incidentformulier ingevuld.
 - 21:30 korte check-in.

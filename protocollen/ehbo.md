@@ -33,7 +33,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 - Locatie: **Warmoesstraat 90, 1012 JH Amsterdam** + "het is een privéfeest".
 - Wat er aan de hand is (feiten, geen diagnose).
 - Hoeveel personen betrokken.
-- Bewustzijn en ademhaling van het slachtoffer.
+- Bewustzijn en ademhaling van de melder.
 - Jouw naam en telefoonnummer.
 - **Stuur iemand naar de voordeur om de hulpdiensten op te vangen.**
 
