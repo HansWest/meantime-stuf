@@ -14,7 +14,9 @@ Locatie: ____________________________________________________________________
 
 Melder (naam + rol): ________________________________________________________
 
-Betrokkenen (omschrijving, geen volledige namen aks niet gevraagd (omschrijving: 'aangever' en veroorzaker')):
+Betrokkenen (omschrijving, geen volledige namen indien niet gevraagd (omschrijving: 'aangever' en veroorzaker')):
+
+_____________________________________________________________________________
 
 _____________________________________________________________________________
 
