@@ -8,15 +8,16 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 
 [👉 Direct digitaal incident melden](formulieren/incidentformulier.html)
 
-- [privacy-data.md](protocollen/privacy-data.md)
 - [escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
-- [eindverantwoordelijke.md](protocollen/eindverantwoordelijke.md)
 - [gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)
-- [toegang-deurbeleid.md](protocollen/toegang-deurbeleid.md)
 - [opbouwen-afbreken.md](protocollen/opbouwen-afbreken.md)
+- [privacy-data.md](protocollen/privacy-data.md)
+- [eindverantwoordelijke.md](protocollen/eindverantwoordelijke.md)
 - [garderobe.md](protocollen/garderobe.md)
-- [incidenten-protocol.md](protocollen/incidenten-protocol.md)
+- [toegang-deurbeleid.md](protocollen/toegang-deurbeleid.md)
+- [gastvrouw-mv.md](protocollen/gastvrouw-mv.md)
 - [ehbo.md](protocollen/ehbo.md)
+
 
 ## Online formulieren
 
@@ -27,11 +28,11 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 
 ## Rollen en shifts
 
-- **Eindverantwoordelijke**: facilitering, planning, financiën en vibe-management.
-- **Ontvangst-crew**: ontvangst, tickets, polsbandjes, basisregels.
-- **Awareness Monitor**: aanspreekpunt voor grensoverschrijdingen (te herkennen aan de **sash**).
-- **Garderobe**: jassen, tassen en hangertjes.
 - **Gezamenlijke verantwoordelijkheid**: kleine klussen, materialen, communicatie.
+- **Ontvangst-crew**: ontvangst, tickets, polsbandjes, basisregels.
+- **Garderobe**: jassen, tassen en hangertjes.
+- **Awareness Monitor**: aanspreekpunt voor grensoverschrijdingen (te herkennen aan de **sash**).
+- **Eindverantwoordelijke**: facilitering, planning, financiën en vibe-management.
 
 **Shiftwissel**
 Zie protocol: [gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)

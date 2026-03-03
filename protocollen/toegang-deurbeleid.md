@@ -13,6 +13,7 @@ Kern: duidelijke checks, rustige ontvangst, consistente uitleg, escalaties helde
 - Er geldt een minimum van 2 drankjes (Eagle beleid).
 - Leg de garderobe- en barregels kort uit (alles op de kaart; de kaart lever je weer in bij vertrek, dus graag niet verliezen).
 - Noteer eventuele incidenten op het incidentformulier.
+- Wijs first-timers op de gastvrouwen en awareness-monitor.
 - Wens ze veel plezier (bijv. "doe niets dat ik ook niet zou doen")
 
 - Bij weigering of discussie: verwijs naar FAQ of Eindverantwoordelijke. Maar principieel: ***JIJ* hebt gelijk!**

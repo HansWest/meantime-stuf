@@ -1,6 +1,6 @@
-# Garderobe protocol (geen kluisjes)
+# Garderobe protocol
 
-Kern: overzicht, veiligheid, duidelijkheid.
+Kern: overzicht, vriendelijkheid, duidelijkheid.
 
 ## Aannemen
 
