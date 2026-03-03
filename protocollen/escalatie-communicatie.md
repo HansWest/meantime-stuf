@@ -9,8 +9,8 @@ Kern: *korte feiten, juiste kanaal, escalatie als nodig (anders zelf afhandelen)
 - Bij acuut gevaar: stop direct met je taak en organiseer de veiligheid voor jezelf en de bezoekers.
 - Waarschuw Eagle medewerkers (Michael of Erik) bij acute situaties zoals brand of instorting
 - Bij twijfel of risico: 'de eindverantwoordelijke' (laten) zoeken.
-- Achteraf: voor jezelf afronden door verslag te leggen (incidenten formulier)
-- (neem contact op met eindverantwoordelijke als ergens een beetje mee zit)
+- **Achteraf:** voor jezelf afronden door verslag te leggen (incidenten formulier)
+- (en neem vooral contact op met eindverantwoordelijke als ergens een beetje mee zit)
 
 ## Begrippen
 - Het **slachtoffer** (in EHBO-situaties)

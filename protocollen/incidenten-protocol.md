@@ -1,13 +1,6 @@
-# Incidenten en awareness (Awareness Monitor)
+# Incidenten-protocol
 
 Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
-
-## De rol van Awareness Monitor
-
-De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op de vloer. 
-- **Herkenbaarheid**: De Awareness Monitor is te herkennen aan het dragen van de **sash**.
-- **Focus**: Bewaken van de sfeer, aanspreekpunt bij grensoverschrijdingen en opvang van gasten die zich onveilig of onprettig voelen (aangevers).
-- **Geen politie**: De rol is gericht op support en de-escalatie, niet op handhaving (het aanspreken van de veroorzaker dat doet de eindverantwoordelijke na ooverleg met de awareness monitor).
 
 ## 1. Veiligheid eerst
 
@@ -52,7 +45,7 @@ De Awareness Monitor is hét aanspreekpunt voor sociale veiligheid en welzijn op
 
 ## 4. Documentatie
 
-- Feiten noteren zonder aannames.
+- Feiten noteren (zonder aannames).
 - Gebruik het incidentformulier: [../formulieren/incidentformulier.html](../formulieren/incidentformulier.html)
 - Printversie: [../formulieren/incidentformulier-print.md](../formulieren/incidentformulier-print.md)
 

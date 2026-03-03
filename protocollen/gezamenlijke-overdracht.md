@@ -24,12 +24,17 @@ Kern: gezamenlijke overdracht, feiten delen, open punten borgen vóór vertrek.
 - Zijn er items vermist of gemeld als problematisch?
 - Status van de drankenkaarten-voorraad.
 
-### 3. Awareness Monitor
+### 3. Gastvrouw (MVX)
+- Sfeer en vibe in de zaal: zijn er opvallende groepen of individuen?
+- Zijn er vragen van gasten die nog niet beantwoord zijn?
+- Staat van de 'hosting' (welkomstgevoel, algemene informatie).
+
+### 4. Awareness Monitor
 - Lopende incidenten of gasten die extra aandacht nodig hebben (zonder namen in het bijzijn van anderen).
 - Geplande check-ins met specifieke gasten.
-- Is de rustige ruimte (deur) vrij en beschikbaar?
+- Is de rustige ruimte (deur) vrij en beschikbaar voor overleg?
 
-### 4. Gezamenlijke Verantwoordelijkheid
+### 5. Gezamenlijke Verantwoordelijkheid
 - Voorraad check (condooms, glijmiddel, water).
 - Staat van de ruimtes (schoonmaak, veiligheid).
 - Tablet/scanner status (opgeladen?).

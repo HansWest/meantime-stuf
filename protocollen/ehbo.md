@@ -2,100 +2,55 @@
 
 Kern: veiligheid, rust, bel 112 bij twijfel.
 
+## 🚨 Snel-checklist (bij medisch incident)
+1.  **Veiligheid**: Is de situatie veilig voor jou en omstanders?
+2.  **Bewustzijn**: Spreek aan, schud voorzichtig aan de schouders.
+3.  **Ademhaling**: Kijk, luister en voel maximaal 10 seconden.
+4.  **Hulp**:
+    *   **Bel 112** bij: bewusteloosheid, ademnood, zware bloeding, nekletsel of anafylaxie.
+    *   **Roep direct de Eindverantwoordelijke** of Awareness Monitor erbij.
+    *   **Stuur iemand naar de voordeur** om hulpdiensten op te vangen.
+5.  **Adres**: **Warmoesstraat 90, 1012 JH Amsterdam**
+
+---
+
 ## Voorbereiding
+- [ ] **Locatie**: EHBO-koffer staat bij de garderobe (check bij shiftwissel).
+- [ ] **Kennis**: Minimaal 1 persoon per shift met EHBO-basis.
+- [ ] **Omgeving**: Nooduitgangen en blusmiddelen bekend.
 
-- EHBO-koffer staat bij de garderobe (check locatie bij shiftwissel).
-- Minimaal 1 persoon per shift met EHBO-kennis (of basisinstructie gehad).
-- Nooduitgangen en blusmiddelen kennen.
+## Eerste hulp bij veelvoorkomende situaties
 
-## Bij een medisch incident
+### 🧊 Onwel / flauwvallen
+- [ ] Neerleggen, benen omhoog.
+- [ ] Frisse lucht (omstanders op afstand).
+- [ ] *Bewusteloos?* Stabiele zijligging + 112 bellen.
 
-1. **Beoordeel de situatie** — is het veilig voor jou en omstanders?
-2. **Bel 112 bij:**
-   - Bewusteloosheid
-   - Ademhalingsproblemen
-   - Ernstige bloeding
-   - Vermoeden van botbreuk of nekletsel
-   - Allergische reactie (anafylaxie)
-   - Epileptische aanval die langer duurt dan 4 minuten
-   
-   Actie: bel 112:
-   - Geef adres door: **Warmoesstraat 90, 1012 JH Amsterdam**
-   - Stuur iemand naar de voordeur om de hulpdiensten op te vangen.
+### 🌬️ Hyperventilatie
+- [ ] Rustig praten, niet aanraken zonder toestemming.
+- [ ] Laten uitademen via getuite lippen ("pffff").
+- [ ] Warme plek/badjas aanbieden (ivm kou/schaarse kleding).
 
-3. **Geef eerste hulp** — zie onderstaande situaties.
-4. **Roep Eindverantwoordelijke of Awareness Monitor erbij.**
-5. **Documenteer** — vul het incidentformulier in na afloop.
+### 🩹 Wonden & Brandwonden
+- [ ] **Wond**: Handschoenen aan, reinigen met water, afdrukken met gaas.
+- [ ] **Brandwond**: Minimaal 10 min. koelen met lauwwarm water. Geen zalf!
 
+### 💊 Drugs / Overdosis
+- [ ] Niet veroordelen, blijf rustig.
+- [ ] Vraag wat/hoeveel er is ingenomen (vraag ook vrienden).
+- [ ] *Bewusteloos?* Stabiele zijligging + 112 bellen.
 
-## 112 bellen — wat zeg je
+---
 
-- Locatie: **Warmoesstraat 90, 1012 JH Amsterdam** + "het is een privéfeest".
-- Wat er aan de hand is (feiten, geen diagnose).
-- Hoeveel personen betrokken.
-- Bewustzijn en ademhaling van het slachtoffer.
-- Jouw naam en telefoonnummer.
-- **Stuur iemand naar de voordeur om de hulpdiensten op te vangen.**
-
-## Voorkomende situaties
-
-### Flauwvallen / onwel worden
-- Leg de persoon neer, benen omhoog.
-- Zorg voor frisse lucht (ruimte laten maken: omstanders op afstand houden).
-- Bied water aan, alleen als de persoon rechtopzittend bij bewustzijn is.
-- Bij bewusteloosheid: stabiele zijligging, 112 bellen.
-
-### Hyperventilatie
-- Rustig praten, niet aanraken zonder toestemming.
-- Vraag de persoon langzaam uit te ademen (lippen tuiten "pffff").
-- Laat op een rustige plek zitten bij de deur (met badjas ivm kou of schaarse kleding).
-- Gaat het niet over: Awareness monitor of eindverantwoordelijke erbij halen.
-
-### Kleine verwondingen (snijwond, schaafwond)
-- Handschoenen aan.
-- Reinig met water, druk af met gaas.
-- Pleister of verband uit de EHBO-koffer.
-- Raad slachtoffer aan om eventueel langs huisarts te gaan ivm infectiekans.
-
-### Brandwond
-- Koel minimaal 10 minuten onder lauwwarm stromend water.
-- Niet afplakken, geen zalf.
-- Bij grote of diepe brandwond: 112.
-
-### Allergische reactie
-- Vraag of de persoon medicatie bij zich heeft (EpiPen).
-- Bij zwelling van gezicht/keel of ademhalingsproblemen: *direct* 112 bellen*.
-- Houd de persoon rechtop of laat voorover steunen (meer adem ivm hulp ademhalingsspieren).
-
-### Drugsincident / overdosis
-- Niet veroordelen, niet in paniek raken (hoe minder bedreigend jij bent, hoe relaxter zij zijn
-- Vraag de persoon (als deze kan praten) of vrienden wat iemand heeft ingenomen ivm EHBO.
-- Bij bewusteloosheid: in de stabiele zijligging, 112 bellen.
-- Vermeld bij 112 eerlijk wat er is ingenomen — zij zijn er om te helpen, niet om te veroordelen.
-
-## Kinky context: specifieke aandachtspunten
-
-- **Touw/bondage**: bij witte of blauwe afgebonden ledematen: rustig losmaken. Bij tintelingen of gevoelsverlies **direct losmaken**. Knip het touw door als knopen niet snel genoeg losgaan (verbandschaar in EHBO-koffer).
-- **Impact play**: blauwe plekken zijn normaal, maar open wonden of aanhoudende pijn niet — bied EHBO aan en waarschuww awareness monitor.
-- **Suspension**: bij duizeligheid of misselijkheid na het laten zakken: langzaam neerleggen, benen omhoog, water geven (als iemand weer zelf rechtop kan zitten).
-- **Drop (sub-drop / top-drop)**: kan lijken op flauwvallen of paniek. Bied warmte (badjas), water, suiker (snoep/sap), frisse lucht en rust aan (plekje bij voordeur). Dit is geen medisch noodgeval, maar vraagt wel *veilige* aandacht.
+## ⛓️ Kinky context (specifiek)
+*   **Bondage**: Bij tintelingen of blauw/wit uitslaan: **direct losmaken**. Gebruik de verbandschaar bij nood.
+*   **Sub-drop**: Warmte (badjas), suiker (sap/snoep), rust en frisse lucht. Geen medisch noodgeval, wel nabijheid nodig.
+*   **Impact**: Bij open wonden of extreme pijn: EHBO + Awareness melden.
 
 ## Na het incident
-
-- Vul even het [incidentformulier](incidentformulier.md) in.
-- Meld incident bij de eindverantwoordelijke; als je de adresgegevens of FetLife-naam kunt achterhalen, noteer die.
-- Awareness monitor: check-in met de betrokkene(n) (zelf of vrienden), later op de avond, als dat gepast is.
-- Zorg vooral ook voor jezelf achteraf — praat met elkaar als het je raakt.
-
+- [ ] Vul het [incidentformulier](../formulieren/incidentformulier.html) in.
+- [ ] Meld adres/FetLife-naam aan de Eindverantwoordelijke.
+- [ ] Zelfzorg: Praat na met je team.
 
 ## EHBO-koffer checklist
-
-- [ ] Handschoenen (meerdere paren)
-- [ ] Gaaskompressen en verbandrol
-- [ ] Pleisters (diverse maten)
-- [ ] Schaar (ook voor touw!)
-- [ ] Desinfectiemiddel
-- [ ] Driehoekdoek
-- [ ] Reddingsdeken
-- [ ] Oogdouche
-- [ ] Pincet
+- [ ] Handschoenen, Gaas & verband, Pleisters, Schaar (voor touw), Desinfectie, Reddingsdeken.
