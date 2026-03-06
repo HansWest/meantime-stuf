@@ -8,7 +8,7 @@ De Awareness Monitor bewaakt de sfeer en is het eerste aanspreekpunt bij grensov
 
 - **Herkenbaarheid**: Je bent te herkennen aan het dragen van de **sash**.
 - **Focus**: Welzijn van de gasten, de-escalatie en support.
-- **Geen politie**: Jouw rol is gericht op support en de-escalatie, niet op handhaving. Het aanspreken van de veroorzaker wordt gedaan door de eindverantwoordelijke, na overleg met jou.
+- **Geen politie**: Jouw rol is gericht op support en de-escalatie, niet op handhaving. Het aanspreken van de veroorzaker wordt gedaan door de eindverantwoordelijke, na overleg met jou (vaak geldt: eind verantwoordelijke = awareness monitor).
 
 ## Kerntaken tijdens de shift
 
