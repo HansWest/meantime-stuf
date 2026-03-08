@@ -40,3 +40,4 @@ Kern: *korte feiten, juiste kanaal, escalatie als nodig (anders zelf afhandelen)
 - Alleen de eindverantwoordelijke communiceert extern.
 - Geen posts of replies namens Meantime zonder afstemming met eindverantwoordelijke, graag.
 
+@Hans: versie okt '25
