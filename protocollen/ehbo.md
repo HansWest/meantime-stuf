@@ -8,7 +8,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 3.  **Ademhaling**: Kijk, luister en voel maximaal 10 seconden.
 4.  **Hulp**:
     *   **Bel 112** bij: bewusteloosheid, ademnood, zware bloeding, nekletsel of anafylaxie.
-    *   **Roep direct de Eindverantwoordelijke** / Awareness Monitor erbij.
+    *   **Roep direct de eindverantwoordelijke** / Awareness Monitor erbij.
     *   **Stuur iemand naar de voordeur** om hulpdiensten op te vangen.
 5.  **Adres**: **Warmoesstraat 90, 1012 JH Amsterdam**
 
@@ -16,7 +16,7 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 
 ## Voorbereiding
 - **Locatie**: EHBO-koffer staat bij de garderobe en bij bar (check bij shiftwissel).
-- **Omgeving**: Nooduitgangen en blusmiddelen bekend.
+- **Omgeving**: Nooduitgangen en blusmiddelen zijn bekend.
 
 ## Eerste hulp bij veelvoorkomende situaties
 
@@ -31,8 +31,8 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 - Verse lucht / naar buiten (warme plek/badjas aanbieden ivm kou/schaarse kleding).
 
 ### 🩹 Wonden & Brandwonden
-- **Wond**: Jij handschoenen aan, reinigen met water, afdrukken met gaas.
-- Slagaderlijk (pulserend): never mind ontstekingsrisico belangrijk is bloed binnenboord houden.
+- **Wond**: Jij handschoenen aandoen, reinigen met water, afdrukken met gaas.
+- Slagaderlijk (pulserend): never mind het ontstekingsrisico, belangrijk is bloed binnenboord te houden.
 - **Brandwond**: Minimaal 10 min. koelen met lauwwarm water. Geen zalf!
 
 ### 💊 Drugs / Overdosis
@@ -44,15 +44,17 @@ Kern: veiligheid, rust, bel 112 bij twijfel.
 ---
 
 ## ⛓️ Kinky context (specifiek)
-*   **Bondage**: Bij blauw/wit uitslaan: losmaken. Bij tintelingen of doof gevoel: **direct losmaken**. Gebruik ropecutter of verbandschaar bij nood.
+*   **Bondage**: Bij blauw/wit uitslaan: losmaken. Bij tintelingen of doof gevoel: **direct losmaken**. Gebruik een ropecutter of verbandschaar bij nood.
 *   **Sub-drop**: Warmte (badjas), suiker (sap/snoep), rust en frisse lucht. Geen medisch noodgeval, wel nabijheid en oogje in het zeil nodig.
 *   **Impact**: Bij open wonden of extreme pijn: EHBO + Awareness melden.
 *   **Suspension**: Bij duizeligheid of misselijkheid na laten zakken: rustig neerleggen, benen omhoog, en water pas als iemand weer stabiel rechtop kan zitten.
 
 ## Na het incident
 - Vul het [incidentformulier](../formulieren/incidentformulier.html) in.
-- Meld adres/FetLife-naam aan de Eindverantwoordelijke.
+- Meld adres/FetLife-naam aan de eindverantwoordelijke.
 - Zelfzorg: Praat na met je team.
 
 ## EHBO-koffer checklist
-- Handschoenen, Gaas & verband, Pleisters, Schaar (voor touw), Desinfectie, Reddingsdeken.
+- Handschoenen, gaas & verband, pleisters, schaar (voor touw), desinfectie, reddingsdeken.
+
+@Hans: versie sep '25
