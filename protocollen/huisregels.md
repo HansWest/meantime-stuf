@@ -36,7 +36,7 @@ De 2 Meantime regels zijn bekend?:
 
 
 *Dus... Er moet niks, er mág van alles.*
-*Véél volwassen plezier. En doe niks wat ik niet óók zou doen (dat laat best een hoop ruimte)*
+*Véél volwassen plezier gewenst! En doe niks wat ik niet óók zou doen (dat laat best een hoop ruimte)*
 *Bij vragen: **[lees de FAQ](https://kinkawarecoach.wordpress.com/themeantime/faq/)** (doe dat trouwens ook maar als je nu géén vragen hebt) of stel ze aan de Awareness Monitor of aan één van onze gastvrouwen-MVX-*
 
 @Hans: versie okt '25
