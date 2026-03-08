@@ -22,7 +22,7 @@ Kern: gezamenlijke overdracht, feiten delen, open punten borgen vóór vertrek.
 ### 2. Garderobe
 - Welke hangers zijn nog open en waar bevinden deze gasten zich (indien bekend)?
 - Zijn er items vermist of gemeld als problematisch?
-- Status van de drankenkaarten-voorraad.
+- Status van de drankenkaartenvoorraad.
 
 ### 3. Gastvrouw (MVX)
 - Sfeer en vibe in de zaal: zijn er opvallende groepen of individuen?
@@ -35,13 +35,15 @@ Kern: gezamenlijke overdracht, feiten delen, open punten borgen vóór vertrek.
 - Is de rustige ruimte (deur) vrij en beschikbaar voor overleg?
 
 ### 5. Gezamenlijke Verantwoordelijkheid
-- Voorraad check (condooms, glijmiddel, water).
+- Voorraadcheck (condooms, glijmiddel, water).
 - Staat van de ruimtes (schoonmaak, veiligheid).
 - Tablet/scanner status (opgeladen?).
 
 ## Overdracht aan Eindverantwoordelijke
-- Bij twijfel over een situatie: draag het expliciet over aan de Eindverantwoordelijke.
-- Zijn er incidentformulieren ingevuld die direct aandacht behoeven?
+- Bij twijfel over een situatie: draag het expliciet over aan de eindverantwoordelijke.
+- Zijn er incidentformulieren ingevuld die directe aandacht behoeven?
 
 ## Voorbeeld Gezamenlijk Moment
-- "Garderobe is op orde, hanger 12 loopt nog. Deur heeft 3 mensen geweigerd om vibe. Awareness heeft een check-in om 22:30. De condooms zijn net bijgevuld."
+- *"Garderobe is op orde, hanger 12 loopt nog. De deur heeft 3 mensen geweigerd om vibe. Awareness heeft een check-in om 22:30. De condooms zijn net bijgevuld."*
+
+@Hans: versie dec '25
