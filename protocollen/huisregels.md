@@ -39,7 +39,7 @@ De 2 Meantime regels zijn bekend?:
 *Véél volwassen plezier. En doe niks wat ik niet óók zou doen (dat laat best een hoop ruimte)*
 *Bij vragen: **[lees de FAQ](https://kinkawarecoach.wordpress.com/themeantime/faq/)** (doe dat trouwens ook maar als je nu géén vragen hebt) of stel ze aan de Awareness Monitor of aan één van onze gastvrouwen-MVX-*
 
-@Hans: versie okt 2025
+@Hans: versie okt '25
 
 
 ---
@@ -81,4 +81,4 @@ Are you familiar with the 2 Mean Time rules?:
 *Have lots of adult fun and don't do anything I wouldn't do (that leaves a lot of leeway)*
 *If you have any questions: **[read the FAQ](https://kinkawarecoach.wordpress.com/themeantime/faq/)** (and do that even if you don't have any questions) or ask the Awareness Monitor or our hostesses-MVX-*
 
-@Hans: version okt 2025
+@Hans: version okt '25
