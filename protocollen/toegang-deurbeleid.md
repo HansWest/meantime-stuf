@@ -21,7 +21,7 @@ Kern: duidelijke checks, rustige ontvangst, consistente uitleg, escalaties helde
 
 ## Uitleg basisregels
 
-- Leg basisregels evt uitgebreider uit bij twijfel (**verbal** consent: eerst *vragen vóór dat* je iets doet, *respect* voor alle betrokkenen, geen foto's; als er foto's wenselijk zijn, dan via de eindverantwoordelijke en op zijn telefoon).
+- Leg basisregels evt. uitgebreider uit bij twijfel (**verbal** consent: eerst *vragen vóór dat* je iets doet, *respect* voor alle betrokkenen, geen foto's; als er foto's wenselijk zijn, dan via de eindverantwoordelijke en op zijn telefoon).
 - Benadruk dat iedereen bij disrespect of consentoverschrijding **meteen naar ons toe** mag komen en *altijd* mag stoppen.
 - We horen het graag als iemand vragen heeft over de basisregels.
 - Verwijs bij vragen naar FAQ, Awareness Monitor (herkenbaar aan het blauwe lampje) of eindverantwoordelijke.
@@ -30,3 +30,5 @@ Kern: duidelijke checks, rustige ontvangst, consistente uitleg, escalaties helde
 
 - Informeer over kosten (@EUR 2,50?) en leg de kleurcode uit (rood: eerst vragen, groen: OK om aangesproken te worden).
 
+
+@Hans: versie okt '25
