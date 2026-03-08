@@ -6,6 +6,7 @@ Kern: faciliteren, organiseren, financiële integriteit en veiligheid.
 - **Ondersteuning**: Het faciliteren van alle rollen (Awareness, Ontvangstcrew, Garderobe) waar mogelijk, zodat zij hun taken veilig en effectief kunnen uitvoeren.
 - **Planning**: Zorgen voor de inzet van voldoende medewerkers per shift/event.
 - **Vrijwilligersbeheer**: Het verzorgen van onkostenvergoedingen voor vrijwilligers (waardering voor hun inzet).
+- Regelgeving en verzekeringen samen met ready2kink
 
 ## 2. Deurbeleid & Vibe-management
 - **Kennismaking**: Zorgen voor voldoende kennismaking met (nieuwe) gasten.
@@ -26,3 +27,5 @@ Kern: faciliteren, organiseren, financiële integriteit en veiligheid.
 - **Extern**: Alleen de eindverantwoordelijke communiceert naar buiten toe (social media, pers, andere organisaties).
 - **Incidentkanaal**: Coördineren van de informatie op het interne incidentkanaal.
 - **Privacy**: Bewaken dat persoonsgegevens niet onnodig gedeeld worden binnen de crew.
+
+@Hans: versie nov '25
