@@ -8,6 +8,7 @@ Mobiel lezen: [https://hanswest.github.io/meantime-stuf/work-flow.html](https://
 
 [👉 Direct digitaal incident melden](formulieren/incidentformulier.html)
 
+- [huisregels.md](protocollen/huisregels.md) (NL, Eng)
 - [gezamenlijke-overdracht.md](protocollen/gezamenlijke-overdracht.md)
 - [escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
 - —

@@ -1,4 +1,5 @@
-*# Huisregels the Mean time
+# Huisregels the Mean time
+*(English down below)*
 
 Kern: respect, samen, discreet... volwassen!
 
@@ -80,4 +81,4 @@ Are you familiar with the 2 Mean Time rules?:
 *Have lots of adult fun and don't do anything I wouldn't do (that leaves a lot of leeway)*
 *If you have any questions: **[read the FAQ](https://kinkawarecoach.wordpress.com/themeantime/faq/)** (and do that even if you don't have any questions) or ask the Awareness Monitor or our hostesses-MVX-*
 
-*Hans: version March 1, 2026*
+@Hans

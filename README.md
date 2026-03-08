@@ -19,6 +19,7 @@ The site will be available at:
 Direct links once Pages is live:
 
 - https://hanswest.github.io/meantime-stuf/work-flow.html
+- https://hanswest.github.io/meantime-stuf/protocollen/huisregels.html
 - https://hanswest.github.io/meantime-stuf/protocollen/ehbo.html
 - https://hanswest.github.io/meantime-stuf/protocollen/incidenten-protocol.html
 - https://hanswest.github.io/meantime-stuf/protocollen/toegang-deurbeleid.html
@@ -35,6 +36,7 @@ Direct links once Pages is live:
 ## Structure
 
 - Root index: `index.html`
+- House rules: `protocollen/huisregels.md`
 - Documents: `work-flow.md` and `protocollen/*.md`
 
 When Pages is enabled, Markdown files can be viewed as HTML by using the same path with `.html`.
