@@ -12,13 +12,13 @@ Kern: gastvrijheid, sfeerbeheer, aanspreekpunt voor gasten.
 
 - Loop af-en-toe een rondje door de verschillende ruimtes om de "vibe" te proeven.
 - Maak praatjes met gasten die een beetje verdwaald lijken te zijn of die alleen zijn.
-- Houd een oogje of de toiletten nog okay zijn (geef door aan barcrew).
+- Houd een oogje of de toiletten nog oké zijn (geef door aan barcrew).
 
 ## Veiligheid & Awareness
 
 - Je bent een extra paar ogen voor de Awareness Monitor
 - De huisregels: **"eerst vragen"** & **"respect"**.
-- Bij twijfel even navragen (dat ze zich gezienn voelen) of schakel de Awareness Monitor in.
+- Bij twijfel even navragen (dat ze zich gezien voelen) of schakel de Awareness Monitor in.
 
 ## Aanspreekpunt en Escalatie
 
@@ -28,3 +28,5 @@ Kern: gastvrijheid, sfeerbeheer, aanspreekpunt voor gasten.
 ## Einde shift / Overdracht
 
 - Meld bijzonderheden of opvallende zaken aan het einde van de avond even bij de eindverantwoordelijke.
+
+@Hans: versie nov '25
