@@ -15,11 +15,11 @@ De 2 Meantime regels zijn bekend?:
 ### - Verantwoordelijkheid voor (gezamenlijke) Veiligheid
 - *Meld dus ook onveilige, of respectloze situaties **direct** bij het team!*
 - Géén vuur! En geen ‘sharpies’ op drukke plekken. Pissplay in de ruimte die daarvoor is (vraag vooraf om de douchekop bij de bar).
-- Zware tassen draag je zelf en daar laat je niet het garderobe personeel mee zeulen.
+- Zware tassen: deze worden niet aangenomen, want daar laat je het garderobepersoneel niet mee zeulen. Dus die moet je dan helaas ergens in de speelruimte een plek geven die niet bewaakt kan worden.
 - Toilet (het riool is ouder dan wij bij elkaar opgeteld zijn): dus weinig papier en véél water gebruiken *er is een (koude) douche in het Frans toilet -rechts-*
 
 ### - Middelen & gedrag
-- Overmatig alcohol- of middelengebruik is *not* done (afspraak met the Eagle: 2 consumpties per persoonlijke kaart)
+- Overmatig alcohol- of middelengebruik is *not* done (afspraak met the Eagle is: minimaal 2 consumpties per persoonlijke kaart)
 - **"Foei" = "Doei!"** *(no refund)*.
 
 
