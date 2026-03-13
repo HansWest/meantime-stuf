@@ -32,6 +32,7 @@ Direct links once Pages is live:
 - Onkosten indienen: https://hanswest.github.io/meantime-stuf/formulieren/onkostenvergoeding.html
 - Schade of vermissing: https://hanswest.github.io/meantime-stuf/formulieren/schade-vermissing.html
 - Logboek & shiftwissel: (Alleen printbaar via `logboek-print.html`)
+- Boodschappenlijst: https://hanswest.github.io/meantime-stuf/formulieren/boodschappen.md
 
 ## Structure
 
