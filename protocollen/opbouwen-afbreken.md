@@ -8,7 +8,7 @@ Kern: veilig, gestructureerd, niets vergeten.
 - Mededelingen bordje in de hal
 - Meantime bordje op de voordeur
 - Bondage matten van de zolder halen en neerleggen onder de suspension points.
-- Touw opruimen en suspensiepunten van het plafond.
+- Touw opruimen en suspensiepunten aan het plafond.
 - Alles in dozen onder de trap.
 - Andere Meantime informatiemaarten plaatsen.
 
