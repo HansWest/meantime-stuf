@@ -1,4 +1,4 @@
-# Huisregels the Mean time
+# Huisregels the Meantime
 *(English down below)*
 
 Kern: respect, samen, discreet... volwassen
@@ -33,7 +33,7 @@ De 2 Meantime regels zijn bekend?:
 - Achtergebleven materiaal wordt gefotografeerd en op de lost-and-found op fetlife/meantime geplaatst en na 3 maanden weggegooid.
 
 ### - Incidenten
-- **Voel** je jezelf *onveilig* of *zie* je iets *zorgelijks*: **spreek direct(!) iemand van het team aan.** (niet wachten, niet ‘zelf oplossen')
+- **Voel** je jezelf *onveilig* of *zie* je iets *zorgelijks*: **spreek direct(!) iemand van het team aan** (niet wachten, niet ‘zelf oplossen’).
 
 
 *Dus... Er moet niks, er mág van alles.*
