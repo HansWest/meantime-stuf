@@ -30,6 +30,7 @@ De 2 Meantime regels zijn bekend?:
 - Wat op dit feestje gebeurt, dat blijft op dit feestje.
 - Géén foto-, video- of geluidsopnames door *niemand* (als het 'moet' ;-) dan door de Awareness Monitor en alleen op diens telefoon).
 - *Eerst vragen* (duhhuh) voordat je namen of persoonlijke informatie deelt van bezoekers of medewerkers buiten deze party.
+- Achtergebleven materiaal wordt gefotografeerd en op de lost-and-found op fetlife/meantime geplaatst en na 3 maanden weggegooid.
 
 ### - Incidenten
 - **Voel** je jezelf *onveilig* of *zie* je iets *zorgelijks*: **spreek direct(!) iemand van het team aan.** (niet wachten, niet ‘zelf oplossen')
