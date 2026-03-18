@@ -1,5 +1,5 @@
 
-# House Rules the Mean Time
+# House Rules the Meantime
 
 Core: respect, togetherness, discretion... mature!
 
@@ -28,11 +28,12 @@ Are you familiar with the 2 Mean Time rules?:
 - What happens at this party stays at this party.
 - No photos, videos, or audio recordings by *anyone* (if it's 'must' ;-), then by the Awareness Monitor and only on their phone).
 - *Ask first* (duh huh) before sharing names or personal information of attendees or staff outside of this party.
+- Left behind items are photographed and placed in the lost and found section on FetLife/Meantime and discarded after 3 months.
 
 ### - Incidents
-- **Do you feel* *unsafe* or see something *worrying*: **talk to a team member immediately(!)** (don't wait, don't try to 'solve' it yourself)
+- **Do you feel* *unsafe* or see something *worrying*: **talk to a team member immediately(!)** (don't wait, don't try to 'solve' it yourself).
 
-*So... Nothing is required, anything is allowed.*
+*So... Nothing is required, a lot is allowed.*
 *Have lots of adult fun and don't do anything I wouldn't do (that leaves a lot of leeway)*
 *If you have any questions: **[read the FAQ](https://kinkawarecoach.wordpress.com/themeantime/faq/)** (and do that even if you don't have any questions) or ask the Awareness Monitor or our hostesses-MVX-*
 
