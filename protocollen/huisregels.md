@@ -7,7 +7,7 @@ De 2 Meantime regels zijn bekend?:
    **Respect & Éérst vragen** (lees: *Volwassen!*)
 
 ## 1 - Algemeen Respect!
-- Het 'doel' is sexy, freaky, kinky, seks & (BDSM)spel. Dat valt alleen te verwachten als het voor iedereen veilig is.
+- Het 'doel' is sexy, freaky, kinky, seks & (BDSM)spel. Dat valt alleen te verwachten als het voor **iedereen veilig** is.
 - Dus we behandelen elkaar **met RESPECT**, ongeacht achtergrond, rol, ervaring, (gender)identiteit of voorkeur (en onveiligheid is *niet* respectvol).
 - Aanwijzingen van de organisatie, gastvrouw/-heer en eindverantwoordelijke worden opgevolgd... 
 **"Foei" = "Doei"**
