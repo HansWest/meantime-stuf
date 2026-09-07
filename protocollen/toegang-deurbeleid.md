@@ -7,14 +7,15 @@ Kern: duidelijke checks, rustige ontvangst, consistente uitleg, escalaties helde
 - @toekomst? Staat gast op de lijst? (Zo nee: even checken waarom niet; als vibe OK is welkom, wel even naam noteren bij nummer.)
 - Controleer ticket (digitaal of print) en identiteit indien nodig.
 - Geen Ticket? Verwijs vriendelijk naar de kassa of de eindverantwoordelijke.
-- Controleer leeftijd >18 (ID bij twijfel -en dan ook even op de gastvrouwen MVX wijzen) 
+- Controleer leeftijd >18 (ID bij twijfel -en dan ook even op de gastvrouwen MVX wijzen-) 
 - Vraag bij twijfel of mensen wel fetishgear bij zich hebben en of de dresscode kennen uit de FAQ (geen fetish outfit: geen entrance).
 - Huisregels: *Respect* en *éérst vragen*. Niet naleven: **Foei is Doei!**
 - Leg het gebruik van de barkaart kort uit (waarschuw voor verlies: 75 euro kwijt).
 - Er geldt een minimum van 2 drankjes (Eagle beleid).
 - Leg de garderobe- en barregels kort uit (alles op de kaart; de kaart lever je weer in bij vertrek, dus graag niet verliezen).
-- Wijs first-timers op de gastvrouwen en awareness-monitor.
-- Wens ze veel plezier (bijv. "doe niets dat ik ook niet zou doen")
+- Wijs first-timers op de gastvrouwen en de awareness-monitor.
+- Wens ze veel plezier (bijv. *"doe niets dat ik ook niet zou doen"*)
+- Wanneer iemand een bril draagt die lensjes lijkt te hebben: benoem de lensjes en vraag begrip voor het bestaande risico op privacy-gevaar dus of ze even hun bril in water willen onderdompelen.
 
 - Bij weigering of discussie: verwijs naar FAQ of eindverantwoordelijke. Maar principieel: ***JIJ* hebt gelijk!**
 - Noteer eventuele incidenten op het incidentformulier.
